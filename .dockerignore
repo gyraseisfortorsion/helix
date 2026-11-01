@@ -1,7 +1,13 @@
 .git
+.vercel
 .venv
 .env
+.env.*
 data
+web
+figma mockup
+presentations
+tests
 **/node_modules
 **/dist
 **/__pycache__

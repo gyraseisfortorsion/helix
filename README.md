@@ -126,11 +126,13 @@ Source: [Kircher et al. data portal](https://kircherlab.bihealth.org/satMutMPRA/
 
 ## Deployability
 
+For the ready-to-run **VPS backend + Vercel frontend** setup, follow [VPS deployment](docs/VPS_DEPLOYMENT.md). On a fresh VPS, clone this repository, copy `deploy/vps.env.example` to `.env`, set the backend hostname and provider keys, and run `docker compose --profile https up -d --build --wait`. This starts FastAPI with its worker, persistent storage, and Caddy for HTTPS.
+
 The frontend is static (`web/dist`) and can deploy independently to Vercel or GCP. Set `VITE_API_BASE_URL` at build time to the HTTPS backend origin; no provider secret belongs in a `VITE_` variable. Do not proxy large genomic uploads through frontend functions.
 
 The backend Dockerfile targets an always-on host with a persistent `/data` volume. `compose.yaml` supplies a local example. Set a private workspace access key, exact CORS origins, and turn off loopback workspace creation for hosting. The default API includes one background worker. To use a separate `helix-worker`, set `DNA_EMBEDDED_WORKER=false` on the API and run exactly one worker against the same data volume. SQLite is intentionally single-host; horizontal scaling requires a different persistence design.
 
-The `helix` Vercel project is connected to this repository with `web` as its root directory. Production provider credentials are configured as encrypted environment variables; they are never exposed through `VITE_` variables. The frontend deployment still requires `VITE_API_BASE_URL` pointing to an HTTPS backend. Provider credentials must also be configured on that backend host. Vercel Functions cannot preserve this backend's local SQLite/Parquet state or continuously run its embedded worker; use the persistent Docker host described above.
+The `helix` Vercel project is connected to this repository with `web` as its root directory. Its current `/api/*` rewrite targets the deployed VPS at `http://34.31.166.71`; leave `VITE_API_BASE_URL` empty for this mode. The browser talks HTTPS to Vercel while Vercel forwards to the HTTP backend. For direct HTTPS access, set `VITE_API_BASE_URL` to a trusted HTTPS backend origin and redeploy. Provider credentials belong on the backend host; the older encrypted values in Vercel do not configure the VPS and are never exposed through `VITE_` variables.
 
 ### Question-driven genetic lookup
 

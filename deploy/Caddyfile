@@ -1,0 +1,6 @@
+{$API_DOMAIN} {
+	reverse_proxy api:8000 {
+		# Send investigation events immediately, without response buffering.
+		flush_interval -1
+	}
+}
