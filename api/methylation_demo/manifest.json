@@ -1,0 +1,8 @@
+{
+  "bundle_sha256": "b931f7d5b7cc2e9b6ebbb09df66eb8da2b0dcbeec41a8db81bc263421f787864",
+  "matrix_sha256": "2f215e8b72d3c97c7793114f72cd2251f1ef2b225924c88a7bc1c414043663a0",
+  "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE41nnn/GSE41169/matrix/GSE41169_series_matrix.txt.gz",
+  "selection": "Only the exact 71 published Hannum CpGs; original beta values unchanged, all 95 GEO samples retained, with missing values omitted and incomplete samples excluded from score evaluation. Demo is first adult control in original source order.",
+  "collection_date": "Not reported; submission/publication date is not used as collection date.",
+  "retrieved_at": "2026-11-01"
+}

@@ -1,0 +1,7 @@
+{
+  "sha256": "f101c5a10cc42a92ff62ffd5efb649941c0753e9eea38ecbff9055625f8f5cf5",
+  "source_response_sha256": "1382c333ee20c5d6a15656aa1027baf3d3387464d3fc36ca5359e8ee6cf9fe2c",
+  "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations?efo_id=OBA_1001087&direction=asc&show_child_trait=false&page=0&size=200&sort=p_value",
+  "retrieved_at": "2026-11-01",
+  "selection": "First 200 associations by ascending p_value for exact heart-rate ontology. Keep reported Heart rate or Resting heart rate, genome-wide significance, single rsID and one GRCh38 location; exclude haplotypes/interactions. No individual effect or PRS."
+}

@@ -1,0 +1,8 @@
+{
+  "model": "Hannum 2013",
+  "version": "biolearn-0d714f5a0c0ad5743b6315f3edab1f86112d394f",
+  "source": "https://github.com/bio-learn/biolearn/blob/0d714f5a0c0ad5743b6315f3edab1f86112d394f/biolearn/data/Hannum.csv",
+  "coefficients_sha256": "f37744fa9ea9a18ad419b7dcf02085f1a3ba7e97b6ea3caaf0c4337c7bd37a88",
+  "implementation": "Sum of 71 coefficient * beta products; identity transform; no intercept; no imputation.",
+  "license": "BSD-3-Clause; see LICENSE.biolearn"
+}

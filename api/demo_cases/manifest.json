@@ -1,0 +1,83 @@
+{
+  "bundle_sha256": "e07e1c1f434d3670f7be7e927419a0e70b6cc1d65a85d78b0871667ddae26b41",
+  "retrieved_at": "2026-11-01T16:57:22.306417+00:00",
+  "sources": [
+    {
+      "sample": "HG002",
+      "url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG002_NA24385_son/NISTv4.2.1/GRCh38/HG002_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+      "sha256": "d7421b28ad8c1c18078370b6d1e5b1e962ca10f70f2c3042219ab936d5a67d3f",
+      "hash_scope": "Extracted original VCF including original header",
+      "rows": 4
+    },
+    {
+      "sample": "HG003",
+      "url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG003_NA24149_father/NISTv4.2.1/GRCh38/HG003_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+      "sha256": "9b26580cfd403bd1ad433c267297e2383f83feb74ca039dec49564279012fc39",
+      "hash_scope": "Extracted original VCF including original header",
+      "rows": 7
+    },
+    {
+      "sample": "HG004",
+      "url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG004_NA24143_mother/NISTv4.2.1/GRCh38/HG004_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+      "sha256": "f798ff49c2efd16a23c14c90d177b70e752c8b36e3a24878af5f026814f7d4d4",
+      "hash_scope": "Extracted original VCF including original header",
+      "rows": 3
+    },
+    {
+      "url": "https://rest.ensembl.org/variation/human/rs5030858?genotypes=1",
+      "sha256": "bb67cb2f277998ddef7ca7b2f7385c5845e0a175235454e276f09825dbd17dee",
+      "samples": [
+        "NA12043",
+        "NA20332"
+      ],
+      "hash_scope": "Original public Ensembl response with 2504 sample genotypes; only the two selected records are bundled"
+    }
+  ],
+  "annotations": [
+    {
+      "rsid": "rs422068",
+      "sha256": "68b5884673ada8a80262c25232353a5cf9618662ceee0259511af03cf7b71047",
+      "url": "https://rest.ensembl.org/variation/human/rs422068"
+    },
+    {
+      "rsid": "rs151041685",
+      "sha256": "b44992d053c9bdd0074389e38a825879f935da8ac2ab8fa43904b8d02bf64ab5",
+      "url": "https://rest.ensembl.org/variation/human/rs151041685"
+    },
+    {
+      "rsid": "rs6123471",
+      "sha256": "b4c540abc6bbf87bcb41a1446e4d71dcb198437929cf5aaeb963f237234d0a9b",
+      "url": "https://rest.ensembl.org/variation/human/rs6123471"
+    },
+    {
+      "rsid": "rs9320841",
+      "sha256": "41ef9ba40d886a1ddf20cb9e86e5fd1117c30da834bb91962093b6ab4dc2b711",
+      "url": "https://rest.ensembl.org/variation/human/rs9320841"
+    },
+    {
+      "rsid": "rs1320761",
+      "sha256": "b7da26c90ae1437194300051160e7daab998e5eacea539817c6822d1af7a34ef",
+      "url": "https://rest.ensembl.org/variation/human/rs1320761"
+    },
+    {
+      "rsid": "rs3951016",
+      "sha256": "c2c7bd273100f82a1ca4afc70382aab32871c16c963dd6fe04c6c0b310260272",
+      "url": "https://rest.ensembl.org/variation/human/rs3951016"
+    },
+    {
+      "rsid": "rs4963772",
+      "sha256": "861414ca5099536911e73b99e5801621b551da42bee9522ab50056136ab5071d",
+      "url": "https://rest.ensembl.org/variation/human/rs4963772"
+    },
+    {
+      "rsid": "rs365990",
+      "sha256": "0ae1140fa0cf98fc81127b2cc5fa7dc1cce9ae391de37b971812362ea73ae74d",
+      "url": "https://rest.ensembl.org/variation/human/rs365990"
+    },
+    {
+      "rsid": "rs17881696",
+      "sha256": "71ed23baf9f26031057f324e4ac00b0fa0e4658d2cbedf3174c3f349910b177f",
+      "url": "https://rest.ensembl.org/variation/human/rs17881696"
+    }
+  ]
+}

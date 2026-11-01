@@ -1,0 +1,22 @@
+{
+  "bundle_sha256": "7bb7d533a1dc8037eebfefa673ef6c769f206a474dbfe6e0084cd5d0b38484b8",
+  "sources": [
+    {
+      "accession": "GSM1886929",
+      "year": 1997,
+      "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1886929&targ=self&form=text&view=full",
+      "sha256": "55c5a16685d60e5cf263a7c32d99275e105d80c2704c3101af7d7a5ff97dbe3c",
+      "max_model_probe_detection_pvalue": 0.0
+    },
+    {
+      "accession": "GSM1886935",
+      "year": 2007,
+      "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1886935&targ=self&form=text&view=full",
+      "sha256": "7dec4b3dba1ce7bff5c5e90a4937da5c5a22ee30d2bd452cdde961feed8c48f4",
+      "max_model_probe_detection_pvalue": 0.0
+    }
+  ],
+  "age_range_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5557932/",
+  "selection": "Exact 71 published model-site beta values from each original GEO sample; no imputation, no invented dates, no individual calendar-age difference calculated.",
+  "retrieved_at": "2026-11-01"
+}

@@ -1,0 +1,334 @@
+{
+  "genetics_supplements": {
+    "hg002": {
+      "kind": "genetics",
+      "filename": "HG002-GIAB-heart-markers.vcf",
+      "rows": [
+        {
+          "chrom": "14",
+          "pos": 23395595,
+          "ref": "T",
+          "alt": "C",
+          "genotype": "1/1",
+          "allele1": "C",
+          "allele2": "C",
+          "rsid": "rs422068",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        },
+        {
+          "chrom": "20",
+          "pos": 38211754,
+          "ref": "T",
+          "alt": "C",
+          "genotype": "0/1",
+          "allele1": "T",
+          "allele2": "C",
+          "rsid": "rs6123471",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        },
+        {
+          "chrom": "6",
+          "pos": 118238495,
+          "ref": "T",
+          "alt": "A",
+          "genotype": "1/1",
+          "allele1": "A",
+          "allele2": "A",
+          "rsid": "rs3951016",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        },
+        {
+          "chrom": "14",
+          "pos": 23392602,
+          "ref": "A",
+          "alt": "G",
+          "genotype": "1/1",
+          "allele1": "G",
+          "allele2": "G",
+          "rsid": "rs365990",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        }
+      ],
+      "metadata": {
+        "build": "GRCh38",
+        "provenance": "public_reference",
+        "sample_id": "HG002",
+        "demo_case_key": "giab-heart-v1-hg002",
+        "source_name": "NIST GIAB v4.2.1 \u00b7 measured heart-rate loci",
+        "source_url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG002_NA24385_son/NISTv4.2.1/GRCh38/HG002_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+        "selection": "Exact sites from the dated GWAS heart-rate snapshot; only observed PASS biallelic SNVs. rsID/alleles checked against forward-strand GRCh38 Ensembl mappings. No absent calls are filled in.",
+        "limitations": "Association loci only; no per-person bpm estimate, clinical classification or polygenic score. Source identity matches the existing GIAB DNA; wearable sources remain independent."
+      }
+    },
+    "hg003": {
+      "kind": "genetics",
+      "filename": "HG003-GIAB-heart-markers.vcf",
+      "rows": [
+        {
+          "chrom": "14",
+          "pos": 23395595,
+          "ref": "T",
+          "alt": "C",
+          "genotype": "0/1",
+          "allele1": "T",
+          "allele2": "C",
+          "rsid": "rs422068",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        },
+        {
+          "chrom": "20",
+          "pos": 38211754,
+          "ref": "T",
+          "alt": "C",
+          "genotype": "0/1",
+          "allele1": "T",
+          "allele2": "C",
+          "rsid": "rs6123471",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        },
+        {
+          "chrom": "6",
+          "pos": 121793305,
+          "ref": "A",
+          "alt": "G",
+          "genotype": "0/1",
+          "allele1": "A",
+          "allele2": "G",
+          "rsid": "rs9320841",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        },
+        {
+          "chrom": "6",
+          "pos": 121846992,
+          "ref": "C",
+          "alt": "T",
+          "genotype": "0/1",
+          "allele1": "C",
+          "allele2": "T",
+          "rsid": "rs1320761",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        },
+        {
+          "chrom": "6",
+          "pos": 118238495,
+          "ref": "T",
+          "alt": "A",
+          "genotype": "1/1",
+          "allele1": "A",
+          "allele2": "A",
+          "rsid": "rs3951016",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        },
+        {
+          "chrom": "12",
+          "pos": 24605546,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "allele1": "G",
+          "allele2": "A",
+          "rsid": "rs4963772",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        },
+        {
+          "chrom": "14",
+          "pos": 23392602,
+          "ref": "A",
+          "alt": "G",
+          "genotype": "0/1",
+          "allele1": "A",
+          "allele2": "G",
+          "rsid": "rs365990",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        }
+      ],
+      "metadata": {
+        "build": "GRCh38",
+        "provenance": "public_reference",
+        "sample_id": "HG003",
+        "demo_case_key": "giab-heart-v1-hg003",
+        "source_name": "NIST GIAB v4.2.1 \u00b7 measured heart-rate loci",
+        "source_url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG003_NA24149_father/NISTv4.2.1/GRCh38/HG003_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+        "selection": "Exact sites from the dated GWAS heart-rate snapshot; only observed PASS biallelic SNVs. rsID/alleles checked against forward-strand GRCh38 Ensembl mappings. No absent calls are filled in.",
+        "limitations": "Association loci only; no per-person bpm estimate, clinical classification or polygenic score. Source identity matches the existing GIAB DNA; wearable sources remain independent."
+      }
+    },
+    "hg004": {
+      "kind": "genetics",
+      "filename": "HG004-GIAB-heart-markers.vcf",
+      "rows": [
+        {
+          "chrom": "14",
+          "pos": 23395595,
+          "ref": "T",
+          "alt": "C",
+          "genotype": "1/1",
+          "allele1": "C",
+          "allele2": "C",
+          "rsid": "rs422068",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        },
+        {
+          "chrom": "6",
+          "pos": 118238495,
+          "ref": "T",
+          "alt": "A",
+          "genotype": "1/1",
+          "allele1": "A",
+          "allele2": "A",
+          "rsid": "rs3951016",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        },
+        {
+          "chrom": "14",
+          "pos": 23392602,
+          "ref": "A",
+          "alt": "G",
+          "genotype": "1/1",
+          "allele1": "G",
+          "allele2": "G",
+          "rsid": "rs365990",
+          "phased": false,
+          "quality": 50.0,
+          "build": "GRCh38"
+        }
+      ],
+      "metadata": {
+        "build": "GRCh38",
+        "provenance": "public_reference",
+        "sample_id": "HG004",
+        "demo_case_key": "giab-heart-v1-hg004",
+        "source_name": "NIST GIAB v4.2.1 \u00b7 measured heart-rate loci",
+        "source_url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG004_NA24143_mother/NISTv4.2.1/GRCh38/HG004_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+        "selection": "Exact sites from the dated GWAS heart-rate snapshot; only observed PASS biallelic SNVs. rsID/alleles checked against forward-strand GRCh38 Ensembl mappings. No absent calls are filled in.",
+        "limitations": "Association loci only; no per-person bpm estimate, clinical classification or polygenic score. Source identity matches the existing GIAB DNA; wearable sources remain independent."
+      }
+    }
+  },
+  "family_profiles": [
+    {
+      "key": "family-na12043",
+      "profile": {
+        "name": "NA12043 \u00b7 PAH inheritance example",
+        "age": null,
+        "timezone": "UTC",
+        "goals": "Understand conditional inheritance for a measured PAH allele",
+        "history": "Public 1000 Genomes Phase 3 reference sample. Hypothetical comparison with another public sample; no actual couple or pregnancy is represented.",
+        "dietary_constraints": "",
+        "external_analysis_consent": true,
+        "provenance": "public_reference",
+        "source_name": "1000 Genomes Phase 3 \u00b7 Ensembl sample genotypes",
+        "source_url": "https://rest.ensembl.org/variation/human/rs5030858?genotypes=1",
+        "data_notes": "One measured PAH locus, not a genome or comprehensive carrier screen. The two selected samples are a hypothetical pairing, not a known couple. No symptoms, offspring outcomes, matched wearable or methylation data are supplied.",
+        "recommended_partner_key": "family-na20332",
+        "demo_scenario": "family"
+      },
+      "datasets": [
+        {
+          "kind": "genetics",
+          "filename": "NA12043-measured-PAH.csv",
+          "rows": [
+            {
+              "chrom": "12",
+              "pos": 102840493,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "0|1",
+              "allele1": "G",
+              "allele2": "A",
+              "phased": true,
+              "quality": null,
+              "rsid": "rs5030858",
+              "build": "GRCh38"
+            }
+          ],
+          "metadata": {
+            "build": "GRCh38",
+            "provenance": "public_reference",
+            "sample_id": "NA12043",
+            "source_name": "1000 Genomes Phase 3 \u00b7 Ensembl sample genotypes",
+            "source_url": "https://rest.ensembl.org/variation/human/rs5030858?genotypes=1",
+            "demo_case_key": "family-na12043",
+            "selection": "The original measured phase-3 sample genotype at rs5030858. The unique forward-strand GRCh38 mapping and G/A alleles were verified. No calls at CFTR/HEXA are inferred.",
+            "limitations": "One measured PAH locus, not a genome or comprehensive carrier screen. The two selected samples are a hypothetical pairing, not a known couple. No symptoms, offspring outcomes, matched wearable or methylation data are supplied."
+          }
+        }
+      ]
+    },
+    {
+      "key": "family-na20332",
+      "profile": {
+        "name": "NA20332 \u00b7 PAH inheritance example",
+        "age": null,
+        "timezone": "UTC",
+        "goals": "Understand conditional inheritance for a measured PAH allele",
+        "history": "Public 1000 Genomes Phase 3 reference sample. Hypothetical comparison with another public sample; no actual couple or pregnancy is represented.",
+        "dietary_constraints": "",
+        "external_analysis_consent": true,
+        "provenance": "public_reference",
+        "source_name": "1000 Genomes Phase 3 \u00b7 Ensembl sample genotypes",
+        "source_url": "https://rest.ensembl.org/variation/human/rs5030858?genotypes=1",
+        "data_notes": "One measured PAH locus, not a genome or comprehensive carrier screen. The two selected samples are a hypothetical pairing, not a known couple. No symptoms, offspring outcomes, matched wearable or methylation data are supplied.",
+        "recommended_partner_key": "family-na12043",
+        "demo_scenario": "family"
+      },
+      "datasets": [
+        {
+          "kind": "genetics",
+          "filename": "NA20332-measured-PAH.csv",
+          "rows": [
+            {
+              "chrom": "12",
+              "pos": 102840493,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "0|1",
+              "allele1": "G",
+              "allele2": "A",
+              "phased": true,
+              "quality": null,
+              "rsid": "rs5030858",
+              "build": "GRCh38"
+            }
+          ],
+          "metadata": {
+            "build": "GRCh38",
+            "provenance": "public_reference",
+            "sample_id": "NA20332",
+            "source_name": "1000 Genomes Phase 3 \u00b7 Ensembl sample genotypes",
+            "source_url": "https://rest.ensembl.org/variation/human/rs5030858?genotypes=1",
+            "demo_case_key": "family-na20332",
+            "selection": "The original measured phase-3 sample genotype at rs5030858. The unique forward-strand GRCh38 mapping and G/A alleles were verified. No calls at CFTR/HEXA are inferred.",
+            "limitations": "One measured PAH locus, not a genome or comprehensive carrier screen. The two selected samples are a hypothetical pairing, not a known couple. No symptoms, offspring outcomes, matched wearable or methylation data are supplied."
+          }
+        }
+      ]
+    }
+  ]
+}

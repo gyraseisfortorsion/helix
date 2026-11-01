@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "bundle_sha256": "0826f3f2da808a1f385c8d69d80a8c57d529015f3991822f1ecfa5b13c6f0ba7",
+  "sources": [
+    {
+      "id": "HG002",
+      "url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG002_NA24385_son/NISTv4.2.1/GRCh38/HG002_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+      "sha256": "975bd56f7e4000d096e167912d48c9fba2e91e9c741d554fa43d0d8a716899fa",
+      "bytes": 35599,
+      "hash_scope": "Exact extracted VCF including original header; not the complete upstream VCF",
+      "release": "NIST GIAB v4.2.1",
+      "selection": [
+        [
+          "chr20",
+          35430000,
+          35445000
+        ],
+        [
+          "chr7",
+          117587300,
+          117588300
+        ],
+        [
+          "chr12",
+          102840000,
+          102841000
+        ],
+        [
+          "chr15",
+          72350000,
+          72351000
+        ]
+      ]
+    },
+    {
+      "id": "HG003",
+      "url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG003_NA24149_father/NISTv4.2.1/GRCh38/HG003_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+      "sha256": "156f2b990c1b5b2944d4f7be2984d5fc098406a5e6de842abf4abc8a0cea4580",
+      "bytes": 36147,
+      "hash_scope": "Exact extracted VCF including original header; not the complete upstream VCF",
+      "release": "NIST GIAB v4.2.1",
+      "selection": [
+        [
+          "chr20",
+          35430000,
+          35445000
+        ],
+        [
+          "chr7",
+          117587300,
+          117588300
+        ],
+        [
+          "chr12",
+          102840000,
+          102841000
+        ],
+        [
+          "chr15",
+          72350000,
+          72351000
+        ]
+      ]
+    },
+    {
+      "id": "HG004",
+      "url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG004_NA24143_mother/NISTv4.2.1/GRCh38/HG004_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+      "sha256": "814587c15c08a3f282a8e1fef428e32fe4213669275d44aa4cee0a1d76ecc53d",
+      "bytes": 31528,
+      "hash_scope": "Exact extracted VCF including original header; not the complete upstream VCF",
+      "release": "NIST GIAB v4.2.1",
+      "selection": [
+        [
+          "chr20",
+          35430000,
+          35445000
+        ],
+        [
+          "chr7",
+          117587300,
+          117588300
+        ],
+        [
+          "chr12",
+          102840000,
+          102841000
+        ],
+        [
+          "chr15",
+          72350000,
+          72351000
+        ]
+      ]
+    },
+    {
+      "id": "hg002_methylation",
+      "url": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3-eu-west-1.amazonaws.com/modbase_tutorial/chr20.bismark.bed.gz?download=1",
+      "sha256": "596e37ed6c1699135ab74309063238ecd7a9f4187be7a4e7951bd07f63f439f7",
+      "bytes": 14979702,
+      "release": "ONT GM24385 modified-base tutorial",
+      "sample_id": "HG002/GM24385",
+      "license": "Public research release; no separate redistribution license stated on the release page"
+    },
+    {
+      "id": "pmdata_resting_heart_rate.json",
+      "url": "https://osf.io/download/pckyn/",
+      "sha256": "f18937b69bc5501e2a0f9da5a063c40ec55112bcd346baa41f5974c3cb3ab86d",
+      "bytes": 18890,
+      "sample_id": "PMData p01",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "id": "pmdata_steps.json",
+      "url": "https://osf.io/download/gjpz5/",
+      "sha256": "24149da71e88fc8d1c058ba932f4bda8acc48821b596dbdb88fc7cd66075429b",
+      "bytes": 11203988,
+      "sample_id": "PMData p01",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "id": "pmdata_sleep.json",
+      "url": "https://osf.io/download/5jyae/",
+      "sha256": "3e140bfcb86856861ca3a70c48fefaf50c3764d588e0c53afbf62ed1734846d8",
+      "bytes": 544294,
+      "sample_id": "PMData p01",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
+    }
+  ],
+  "citations": [
+    "Wagner et al. 2022, doi:10.1038/s41587-021-01191-w",
+    "Oxford Nanopore GM24385 modified-base data release/tutorial",
+    "Thambawita et al. 2020, doi:10.1145/3339825.3394926"
+  ],
+  "sample_matching": "GIAB HG002/HG003/HG004 are a documented trio. Methylation is the HG002/GM24385 cell line, a separate experiment. PMData p01 is an independent wearable participant. No cross-person merging."
+}

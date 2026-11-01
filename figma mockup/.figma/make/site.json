@@ -1,0 +1,10 @@
+{
+  "description": "Explore personal genetic findings, wearable trends, and family inheritance risks with evidence-backed insights for informed health and lifestyle decisions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

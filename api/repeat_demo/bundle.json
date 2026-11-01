@@ -1,0 +1,931 @@
+{
+  "key": "gse73115-individual-1",
+  "profile": {
+    "name": "GSE73115 \u00b7 ten-year methylation follow-up",
+    "age": null,
+    "timezone": "UTC",
+    "goals": "Understand a same-person repeat methylation comparison",
+    "history": "Public whole-blood samples from the same participant, Individual 1, in 1997 and 2007. Individual calendar age and exact collection dates are not published; no birthday or collection day is inferred.",
+    "dietary_constraints": "",
+    "external_analysis_consent": true,
+    "provenance": "public_reference",
+    "source_name": "GEO GSE73115 \u00b7 same-person whole-blood follow-up",
+    "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE73115",
+    "data_notes": "Two real samples from the same donor, ten calendar years apart. Cohort age range was 73\u201382 in 1997 and 83\u201392 in 2007. No exact personal age, collection day, matched DNA or wearable data is supplied.",
+    "demo_scenario": "repeat_methylation"
+  },
+  "datasets": [
+    {
+      "kind": "methylation",
+      "filename": "GSM1886929-71-measured-clock-sites.csv",
+      "rows": [
+        {
+          "cpg_id": "cg00481951",
+          "beta": 0.349470353034625,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg00486113",
+          "beta": 0.409666453514516,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg00748589",
+          "beta": 0.356326470112924,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg01528542",
+          "beta": 0.62313767665352,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg02046143",
+          "beta": 0.34181788424109,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg02085953",
+          "beta": 0.428734542410205,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg02650266",
+          "beta": 0.152160822959484,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg02867102",
+          "beta": 0.161997700164202,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg03032497",
+          "beta": 0.416257757539554,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg03399905",
+          "beta": 0.206344337480795,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg03473532",
+          "beta": 0.731942018199738,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg03607117",
+          "beta": 0.237860291648892,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg04400972",
+          "beta": 0.168337882922204,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg04416734",
+          "beta": 0.23637331916204,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg04474832",
+          "beta": 0.35391863406549,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg04875128",
+          "beta": 0.281399219375612,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg04940570",
+          "beta": 0.160038640631462,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg05442902",
+          "beta": 0.330388895042743,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg06419846",
+          "beta": 0.925590114689488,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg06493994",
+          "beta": 0.334079736556522,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg06639320",
+          "beta": 0.615513735919296,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg06685111",
+          "beta": 0.421084989533853,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg06874016",
+          "beta": 0.401293309867651,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07082267",
+          "beta": 0.451729532344939,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07547549",
+          "beta": 0.484396025678099,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07553761",
+          "beta": 0.399141772267998,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07583137",
+          "beta": 0.680198496851378,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07927379",
+          "beta": 0.152031424601767,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07955995",
+          "beta": 0.126644526263824,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg08097417",
+          "beta": 0.308108256000728,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg08234504",
+          "beta": 0.374146599562877,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg08415592",
+          "beta": 0.283573347323618,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg08540945",
+          "beta": 0.227607243696288,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg09651136",
+          "beta": 0.835390730016101,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg09809672",
+          "beta": 0.455222420776811,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg10501210",
+          "beta": 0.363678280875508,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg11067179",
+          "beta": 0.921217056193139,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg13001142",
+          "beta": 0.737583913540424,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg14361627",
+          "beta": 0.337156826247858,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg14556683",
+          "beta": 0.399489782801169,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg14692377",
+          "beta": 0.287223512586577,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg16054275",
+          "beta": 0.527913245902674,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg16419235",
+          "beta": 0.249845882442738,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg16867657",
+          "beta": 0.726068584734501,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg18473521",
+          "beta": 0.641583372625063,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg19283806",
+          "beta": 0.325818264953372,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg19722847",
+          "beta": 0.217101924535109,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg19935065",
+          "beta": 0.58300201784456,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg20052760",
+          "beta": 0.308735616949655,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg20426994",
+          "beta": 0.165832847251052,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg20822990",
+          "beta": 0.34892339987141,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg21139312",
+          "beta": 0.90862929250065,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg21296230",
+          "beta": 0.278391028006955,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22016779",
+          "beta": 0.306494113226318,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22158769",
+          "beta": 0.0924452186629953,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22213242",
+          "beta": 0.864287677346797,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22285878",
+          "beta": 0.0841954754964256,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22454769",
+          "beta": 0.696069824076839,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22512670",
+          "beta": 0.610685098737398,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22736354",
+          "beta": 0.373979098307568,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22796704",
+          "beta": 0.556193275452827,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg23091758",
+          "beta": 0.162295324656648,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg23500537",
+          "beta": 0.573229284572089,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg23606718",
+          "beta": 0.252274048671757,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg23744638",
+          "beta": 0.613823084283197,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg24079702",
+          "beta": 0.500711934422062,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg25410668",
+          "beta": 0.60166954270591,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg25428494",
+          "beta": 0.371302237502181,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg25478614",
+          "beta": 0.444772264994389,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "ch.13.39564907R",
+          "beta": 0.0574096014535464,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "ch.2.30415474F",
+          "beta": 0.0439500457749246,
+          "chrom": null,
+          "pos": null
+        }
+      ],
+      "metadata": {
+        "build": "GRCh37",
+        "tissue": "whole blood",
+        "assay": "Illumina 450K",
+        "collected_at": "Not reported",
+        "collection_year": 1997,
+        "age_range_at_collection": [
+          73,
+          82
+        ],
+        "age_range_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5557932/",
+        "subject_id": "GSE73115:Individual_1",
+        "preprocessing": "BeadStudio software v3.2 (as reported by GEO)",
+        "qc_status": "public_processed",
+        "qc_max_model_probe_detection_pvalue": 0.0,
+        "comparability_group": "GSE73115-BeadStudio-v3.2",
+        "comparability_basis": "Same published study, participant, tissue, platform and processing. Raw QC/batch equivalence were not independently validated.",
+        "provenance": "public_reference",
+        "demo_case_key": "repeat-GSM1886929",
+        "source_name": "GEO GSE73115 \u00b7 GSM1886929",
+        "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1886929",
+        "selection": "All 71 Hannum model sites, beta values unchanged from the original sample table. Required-site detection p-values are <=0.05. Collection year is reported; day/month are not invented.",
+        "limitations": "Same real participant in 1997 and 2007. Only cohort age ranges are published, not individual calendar age. Processed research data with limited QC; no calibrated meaningful-change threshold. No matched DNA/wearables or intervention benefit is established."
+      }
+    },
+    {
+      "kind": "methylation",
+      "filename": "GSM1886935-71-measured-clock-sites.csv",
+      "rows": [
+        {
+          "cpg_id": "cg00481951",
+          "beta": 0.344977704004711,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg00486113",
+          "beta": 0.398574783843036,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg00748589",
+          "beta": 0.308061557905979,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg01528542",
+          "beta": 0.631550230285895,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg02046143",
+          "beta": 0.328404702441316,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg02085953",
+          "beta": 0.395103005005267,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg02650266",
+          "beta": 0.169730918285134,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg02867102",
+          "beta": 0.185190634929328,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg03032497",
+          "beta": 0.3315650446414,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg03399905",
+          "beta": 0.173949337111652,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg03473532",
+          "beta": 0.749735759109781,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg03607117",
+          "beta": 0.247277411088349,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg04400972",
+          "beta": 0.189217439742929,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg04416734",
+          "beta": 0.198736740525233,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg04474832",
+          "beta": 0.300402985162383,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg04875128",
+          "beta": 0.331504914914906,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg04940570",
+          "beta": 0.167339242218407,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg05442902",
+          "beta": 0.261103309463375,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg06419846",
+          "beta": 0.923926564839844,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg06493994",
+          "beta": 0.315125334451851,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg06639320",
+          "beta": 0.605140850945633,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg06685111",
+          "beta": 0.394612377002257,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg06874016",
+          "beta": 0.380630355484885,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07082267",
+          "beta": 0.424082175667456,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07547549",
+          "beta": 0.483747086557403,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07553761",
+          "beta": 0.39911901258994,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07583137",
+          "beta": 0.689363529661069,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07927379",
+          "beta": 0.208148462427124,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg07955995",
+          "beta": 0.146164427584814,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg08097417",
+          "beta": 0.290756339162807,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg08234504",
+          "beta": 0.334161177415129,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg08415592",
+          "beta": 0.274961719067612,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg08540945",
+          "beta": 0.250734549408563,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg09651136",
+          "beta": 0.787423618773676,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg09809672",
+          "beta": 0.448917907155254,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg10501210",
+          "beta": 0.419975382438604,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg11067179",
+          "beta": 0.883944213270896,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg13001142",
+          "beta": 0.730738882390834,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg14361627",
+          "beta": 0.310428651598515,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg14556683",
+          "beta": 0.375462028905065,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg14692377",
+          "beta": 0.277405259736877,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg16054275",
+          "beta": 0.492807729071056,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg16419235",
+          "beta": 0.246071379986623,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg16867657",
+          "beta": 0.766254310656404,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg18473521",
+          "beta": 0.663340971674049,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg19283806",
+          "beta": 0.257139443562188,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg19722847",
+          "beta": 0.193186787336371,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg19935065",
+          "beta": 0.630792087875089,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg20052760",
+          "beta": 0.284072521069127,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg20426994",
+          "beta": 0.154057433867465,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg20822990",
+          "beta": 0.344017601498182,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg21139312",
+          "beta": 0.8941192410091,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg21296230",
+          "beta": 0.284653456582322,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22016779",
+          "beta": 0.243291221421534,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22158769",
+          "beta": 0.0818613814074456,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22213242",
+          "beta": 0.849765645311813,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22285878",
+          "beta": 0.113615844558039,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22454769",
+          "beta": 0.651156705707037,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22512670",
+          "beta": 0.619716189891169,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22736354",
+          "beta": 0.361629157005151,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg22796704",
+          "beta": 0.608063248266467,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg23091758",
+          "beta": 0.178024807104306,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg23500537",
+          "beta": 0.567866811264571,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg23606718",
+          "beta": 0.272312181030956,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg23744638",
+          "beta": 0.591168712774711,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg24079702",
+          "beta": 0.484197078342847,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg25410668",
+          "beta": 0.668002800153148,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg25428494",
+          "beta": 0.341837973588337,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "cg25478614",
+          "beta": 0.474261738285107,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "ch.13.39564907R",
+          "beta": 0.0544251366203761,
+          "chrom": null,
+          "pos": null
+        },
+        {
+          "cpg_id": "ch.2.30415474F",
+          "beta": 0.0668722438655536,
+          "chrom": null,
+          "pos": null
+        }
+      ],
+      "metadata": {
+        "build": "GRCh37",
+        "tissue": "whole blood",
+        "assay": "Illumina 450K",
+        "collected_at": "Not reported",
+        "collection_year": 2007,
+        "age_range_at_collection": [
+          83,
+          92
+        ],
+        "age_range_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5557932/",
+        "subject_id": "GSE73115:Individual_1",
+        "preprocessing": "BeadStudio software v3.2 (as reported by GEO)",
+        "qc_status": "public_processed",
+        "qc_max_model_probe_detection_pvalue": 0.0,
+        "comparability_group": "GSE73115-BeadStudio-v3.2",
+        "comparability_basis": "Same published study, participant, tissue, platform and processing. Raw QC/batch equivalence were not independently validated.",
+        "provenance": "public_reference",
+        "demo_case_key": "repeat-GSM1886935",
+        "source_name": "GEO GSE73115 \u00b7 GSM1886935",
+        "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1886935",
+        "selection": "All 71 Hannum model sites, beta values unchanged from the original sample table. Required-site detection p-values are <=0.05. Collection year is reported; day/month are not invented.",
+        "limitations": "Same real participant in 1997 and 2007. Only cohort age ranges are published, not individual calendar age. Processed research data with limited QC; no calibrated meaningful-change threshold. No matched DNA/wearables or intervention benefit is established."
+      }
+    }
+  ]
+}

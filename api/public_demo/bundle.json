@@ -1,0 +1,5190 @@
+{
+  "version": 1,
+  "profiles": [
+    {
+      "key": "hg002",
+      "profile": {
+        "name": "HG002 \u00b7 GIAB son",
+        "age": null,
+        "timezone": "UTC",
+        "goals": "Explore public reference genotypes and molecular predictions",
+        "history": "Public reference cell-line sample HG002/NA24385, the son in the GIAB trio. No personal symptoms, lifestyle or clinical outcomes are supplied.",
+        "dietary_constraints": "",
+        "external_analysis_consent": true,
+        "provenance": "public_reference",
+        "source_name": "NIST Genome in a Bottle v4.2.1",
+        "source_url": "https://www.nist.gov/programs-projects/genome-bottle",
+        "data_notes": "18 observed SNVs from a bounded GRCh38 subset. Cell-line reference data; no wearable data or current health history."
+      },
+      "datasets": [
+        {
+          "kind": "genetics",
+          "filename": "HG002-GIAB-v4.2.1-subset.vcf",
+          "rows": [
+            {
+              "chrom": "20",
+              "pos": 35430145,
+              "ref": "C",
+              "alt": "G",
+              "genotype": "0/1",
+              "allele1": "C",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35431221,
+              "ref": "T",
+              "alt": "C",
+              "genotype": "1/1",
+              "allele1": "C",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35431781,
+              "ref": "T",
+              "alt": "C",
+              "genotype": "0/1",
+              "allele1": "T",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35434398,
+              "ref": "T",
+              "alt": "C",
+              "genotype": "1/1",
+              "allele1": "C",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35434589,
+              "ref": "C",
+              "alt": "A",
+              "genotype": "0/1",
+              "allele1": "C",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35434874,
+              "ref": "A",
+              "alt": "C",
+              "genotype": "1/1",
+              "allele1": "C",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35435421,
+              "ref": "C",
+              "alt": "T",
+              "genotype": "0/1",
+              "allele1": "C",
+              "allele2": "T",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35436182,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "0/1",
+              "allele1": "A",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35436939,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35438203,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "0/1",
+              "allele1": "G",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": "rs143383",
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35438630,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35442075,
+              "ref": "A",
+              "alt": "T",
+              "genotype": "0/1",
+              "allele1": "A",
+              "allele2": "T",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35442617,
+              "ref": "C",
+              "alt": "T",
+              "genotype": "0/1",
+              "allele1": "C",
+              "allele2": "T",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35442798,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "0/1",
+              "allele1": "G",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35444251,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35444411,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "1/1",
+              "allele1": "A",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "12",
+              "pos": 102840701,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "12",
+              "pos": 102840766,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "0/1",
+              "allele1": "G",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            }
+          ],
+          "metadata": {
+            "build": "GRCh38",
+            "provenance": "public_reference",
+            "sample_id": "HG002",
+            "source_name": "NIST Genome in a Bottle v4.2.1",
+            "source_url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG002_NA24385_son/NISTv4.2.1/GRCh38/HG002_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+            "selection": "PASS biallelic SNVs in four stated regions; rsIDs annotated only on exact matching known alleles.",
+            "limitations": "Small variant-only subset, not a whole genome. Missing records are unknown, not reference calls. No clinical phenotype is provided."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hg003",
+      "profile": {
+        "name": "HG003 \u00b7 GIAB father",
+        "age": null,
+        "timezone": "UTC",
+        "goals": "Explore public reference genotypes and molecular predictions",
+        "history": "Public reference cell-line sample HG003/NA24149, the father in the GIAB trio. No personal symptoms, lifestyle or clinical outcomes are supplied.",
+        "dietary_constraints": "",
+        "external_analysis_consent": true,
+        "provenance": "public_reference",
+        "source_name": "NIST Genome in a Bottle v4.2.1",
+        "source_url": "https://www.nist.gov/programs-projects/genome-bottle",
+        "data_notes": "19 observed SNVs from a bounded GRCh38 subset. Cell-line reference data; no wearable data or current health history."
+      },
+      "datasets": [
+        {
+          "kind": "genetics",
+          "filename": "HG003-GIAB-v4.2.1-subset.vcf",
+          "rows": [
+            {
+              "chrom": "20",
+              "pos": 35430145,
+              "ref": "C",
+              "alt": "G",
+              "genotype": "0/1",
+              "allele1": "C",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35431221,
+              "ref": "T",
+              "alt": "C",
+              "genotype": "1/1",
+              "allele1": "C",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35431781,
+              "ref": "T",
+              "alt": "C",
+              "genotype": "0/1",
+              "allele1": "T",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35434398,
+              "ref": "T",
+              "alt": "C",
+              "genotype": "1/1",
+              "allele1": "C",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35434589,
+              "ref": "C",
+              "alt": "A",
+              "genotype": "0/1",
+              "allele1": "C",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35434874,
+              "ref": "A",
+              "alt": "C",
+              "genotype": "1/1",
+              "allele1": "C",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35435421,
+              "ref": "C",
+              "alt": "T",
+              "genotype": "0/1",
+              "allele1": "C",
+              "allele2": "T",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35436182,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "0/1",
+              "allele1": "A",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35436939,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35437976,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "0/1",
+              "allele1": "G",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35438203,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "0/1",
+              "allele1": "G",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": "rs143383",
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35438630,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35442075,
+              "ref": "A",
+              "alt": "T",
+              "genotype": "0/1",
+              "allele1": "A",
+              "allele2": "T",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35442617,
+              "ref": "C",
+              "alt": "T",
+              "genotype": "0/1",
+              "allele1": "C",
+              "allele2": "T",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35442798,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "0/1",
+              "allele1": "G",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35444251,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35444411,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "1/1",
+              "allele1": "A",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "12",
+              "pos": 102840701,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "12",
+              "pos": 102840766,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "0/1",
+              "allele1": "G",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            }
+          ],
+          "metadata": {
+            "build": "GRCh38",
+            "provenance": "public_reference",
+            "sample_id": "HG003",
+            "source_name": "NIST Genome in a Bottle v4.2.1",
+            "source_url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG003_NA24149_father/NISTv4.2.1/GRCh38/HG003_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+            "selection": "PASS biallelic SNVs in four stated regions; rsIDs annotated only on exact matching known alleles.",
+            "limitations": "Small variant-only subset, not a whole genome. Missing records are unknown, not reference calls. No clinical phenotype is provided."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hg004",
+      "profile": {
+        "name": "HG004 \u00b7 GIAB mother",
+        "age": null,
+        "timezone": "UTC",
+        "goals": "Explore public reference genotypes and molecular predictions",
+        "history": "Public reference cell-line sample HG004/NA24143, the mother in the GIAB trio. No personal symptoms, lifestyle or clinical outcomes are supplied.",
+        "dietary_constraints": "",
+        "external_analysis_consent": true,
+        "provenance": "public_reference",
+        "source_name": "NIST Genome in a Bottle v4.2.1",
+        "source_url": "https://www.nist.gov/programs-projects/genome-bottle",
+        "data_notes": "13 observed SNVs from a bounded GRCh38 subset. Cell-line reference data; no wearable data or current health history."
+      },
+      "datasets": [
+        {
+          "kind": "genetics",
+          "filename": "HG004-GIAB-v4.2.1-subset.vcf",
+          "rows": [
+            {
+              "chrom": "20",
+              "pos": 35431221,
+              "ref": "T",
+              "alt": "C",
+              "genotype": "1/1",
+              "allele1": "C",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35431781,
+              "ref": "T",
+              "alt": "C",
+              "genotype": "1/1",
+              "allele1": "C",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35434398,
+              "ref": "T",
+              "alt": "C",
+              "genotype": "1/1",
+              "allele1": "C",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35434589,
+              "ref": "C",
+              "alt": "A",
+              "genotype": "1/1",
+              "allele1": "A",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35434874,
+              "ref": "A",
+              "alt": "C",
+              "genotype": "1/1",
+              "allele1": "C",
+              "allele2": "C",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35436182,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35436939,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35437976,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "0/1",
+              "allele1": "G",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35438203,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "1/1",
+              "allele1": "A",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": "rs143383",
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35438630,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35444251,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "20",
+              "pos": 35444411,
+              "ref": "G",
+              "alt": "A",
+              "genotype": "1/1",
+              "allele1": "A",
+              "allele2": "A",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            },
+            {
+              "chrom": "12",
+              "pos": 102840701,
+              "ref": "A",
+              "alt": "G",
+              "genotype": "1/1",
+              "allele1": "G",
+              "allele2": "G",
+              "phased": false,
+              "quality": 50.0,
+              "rsid": null,
+              "build": "GRCh38"
+            }
+          ],
+          "metadata": {
+            "build": "GRCh38",
+            "provenance": "public_reference",
+            "sample_id": "HG004",
+            "source_name": "NIST Genome in a Bottle v4.2.1",
+            "source_url": "https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/AshkenazimTrio/HG004_NA24143_mother/NISTv4.2.1/GRCh38/HG004_GRCh38_1_22_v4.2.1_benchmark.vcf.gz",
+            "selection": "PASS biallelic SNVs in four stated regions; rsIDs annotated only on exact matching known alleles.",
+            "limitations": "Small variant-only subset, not a whole genome. Missing records are unknown, not reference calls. No clinical phenotype is provided."
+          }
+        }
+      ]
+    },
+    {
+      "key": "pmdata_p01",
+      "profile": {
+        "name": "PMData \u00b7 participant p01",
+        "age": null,
+        "timezone": "UTC",
+        "goals": "Explore real historical wearable trends",
+        "history": "Public PMData research participant p01. No DNA or methylation is supplied. No connection to the GIAB family.",
+        "dietary_constraints": "",
+        "external_analysis_consent": true,
+        "provenance": "public_reference",
+        "source_name": "PMData \u00b7 Thambawita et al. 2020",
+        "source_url": "https://datasets.simula.no/pmdata/",
+        "data_notes": "2020-03-01 to 2020-03-31. Separate participant; DNA absent. CC BY-NC 4.0; derived daily summaries."
+      },
+      "datasets": [
+        {
+          "kind": "wearables",
+          "filename": "PMData-p01-daily-subset.csv",
+          "rows": [
+            {
+              "timestamp": "2020-03-01T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 54.52877616882324,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-01T12:00:00+00:00",
+              "metric": "steps",
+              "value": 21553.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-01T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 346.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-02T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 54.61709690093994,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-02T12:00:00+00:00",
+              "metric": "steps",
+              "value": 11335.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-02T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 366.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-03T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 53.060065269470215,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-03T12:00:00+00:00",
+              "metric": "steps",
+              "value": 10117.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-03T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 374.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-04T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 52.8782901763916,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-04T12:00:00+00:00",
+              "metric": "steps",
+              "value": 13093.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-04T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 300.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-05T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 52.32710361480713,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-05T12:00:00+00:00",
+              "metric": "steps",
+              "value": 20119.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-05T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 358.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-06T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 52.009737968444824,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-06T12:00:00+00:00",
+              "metric": "steps",
+              "value": 10480.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-06T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 369.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-07T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 52.72003936767578,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-07T12:00:00+00:00",
+              "metric": "steps",
+              "value": 12847.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-07T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 392.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-08T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 52.68251419067383,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-08T12:00:00+00:00",
+              "metric": "steps",
+              "value": 13115.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-08T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 371.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-09T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 51.32135009765625,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-09T12:00:00+00:00",
+              "metric": "steps",
+              "value": 7240.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-09T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 334.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-10T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 51.430620193481445,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-10T12:00:00+00:00",
+              "metric": "steps",
+              "value": 13280.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-10T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 326.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-12T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 52.08916664123535,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-12T12:00:00+00:00",
+              "metric": "steps",
+              "value": 9835.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-12T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 331.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-13T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.45013904571533,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-13T12:00:00+00:00",
+              "metric": "steps",
+              "value": 8744.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-13T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 389.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-14T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.21042537689209,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-14T12:00:00+00:00",
+              "metric": "steps",
+              "value": 9026.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-14T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 446.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-15T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 51.24338340759277,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-15T12:00:00+00:00",
+              "metric": "steps",
+              "value": 9937.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-15T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 301.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-16T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.49125576019287,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-16T12:00:00+00:00",
+              "metric": "steps",
+              "value": 6939.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-16T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 345.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-17T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.059335708618164,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-17T12:00:00+00:00",
+              "metric": "steps",
+              "value": 7952.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-17T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 473.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-18T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.257466316223145,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-18T12:00:00+00:00",
+              "metric": "steps",
+              "value": 6403.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-18T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 427.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-19T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 49.03186798095703,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-19T12:00:00+00:00",
+              "metric": "steps",
+              "value": 8331.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-19T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 332.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-20T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 49.66581630706787,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-20T12:00:00+00:00",
+              "metric": "steps",
+              "value": 7189.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-20T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 341.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-21T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.4773588180542,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-21T12:00:00+00:00",
+              "metric": "steps",
+              "value": 14653.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-21T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 381.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-22T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.55702304840088,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-22T12:00:00+00:00",
+              "metric": "steps",
+              "value": 4773.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-22T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 408.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-23T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.543996810913086,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-23T12:00:00+00:00",
+              "metric": "steps",
+              "value": 5897.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-23T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 375.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-24T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.58268165588379,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-24T12:00:00+00:00",
+              "metric": "steps",
+              "value": 5439.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-24T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 438.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-25T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.29405879974365,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-25T12:00:00+00:00",
+              "metric": "steps",
+              "value": 9121.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-25T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 347.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-26T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.62141036987305,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-26T12:00:00+00:00",
+              "metric": "steps",
+              "value": 7357.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-26T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 415.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-27T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 50.23250770568848,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-27T12:00:00+00:00",
+              "metric": "steps",
+              "value": 11532.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-27T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 307.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-28T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 51.125173568725586,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-28T12:00:00+00:00",
+              "metric": "steps",
+              "value": 16448.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-28T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 354.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-29T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 53.07050037384033,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-29T12:00:00+00:00",
+              "metric": "steps",
+              "value": 6698.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-29T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 349.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-30T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 52.17508316040039,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-30T12:00:00+00:00",
+              "metric": "steps",
+              "value": 4761.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-30T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 386.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-31T12:00:00+00:00",
+              "metric": "resting_heart_rate",
+              "value": 52.556668281555176,
+              "unit": "bpm",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "resting"
+            },
+            {
+              "timestamp": "2020-03-31T12:00:00+00:00",
+              "metric": "steps",
+              "value": 9351.0,
+              "unit": "count",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            },
+            {
+              "timestamp": "2020-03-31T12:00:00+00:00",
+              "metric": "sleep_duration",
+              "value": 345.0,
+              "unit": "minutes",
+              "source": "PMData p01 \u00b7 Fitbit Versa 2",
+              "context": "daily_total"
+            }
+          ],
+          "metadata": {
+            "provenance": "public_reference",
+            "sample_id": "PMData p01",
+            "source_name": "PMData \u00b7 Thambawita et al. 2020",
+            "source_url": "https://datasets.simula.no/pmdata/",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+            "date_range": "2020-03-01 to 2020-03-31",
+            "selection": "Last 30 dates with all three metrics. Resting HR retained; steps sum available minute records; sleep sums minutesAsleep from distinct logs. Missing observations not imputed.",
+            "timestamp_interpretation": "Original calendar dates retained. UTC noon is a display convention; original sensor timezone is unspecified.",
+            "limitations": "Independent participant, not a GIAB donor. Historical observations, not current health; device estimates are not clinical measurements."
+          }
+        }
+      ]
+    }
+  ],
+  "optional_methylation": {
+    "kind": "methylation",
+    "filename": "HG002-Bismark-GDF5-region.csv",
+    "rows": [
+      {
+        "cpg_id": "chr20:35433121",
+        "beta": 0.7407407407407407,
+        "chrom": "20",
+        "pos": 35433121,
+        "methylated_reads": 40,
+        "unmethylated_reads": 14,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35433122",
+        "beta": 0.7659574468085106,
+        "chrom": "20",
+        "pos": 35433122,
+        "methylated_reads": 36,
+        "unmethylated_reads": 11,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35433155",
+        "beta": 0.9516129032258065,
+        "chrom": "20",
+        "pos": 35433155,
+        "methylated_reads": 59,
+        "unmethylated_reads": 3,
+        "coverage": 62
+      },
+      {
+        "cpg_id": "chr20:35433156",
+        "beta": 0.9615384615384616,
+        "chrom": "20",
+        "pos": 35433156,
+        "methylated_reads": 50,
+        "unmethylated_reads": 2,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35433616",
+        "beta": 0.8269230769230769,
+        "chrom": "20",
+        "pos": 35433616,
+        "methylated_reads": 43,
+        "unmethylated_reads": 9,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35433617",
+        "beta": 0.725,
+        "chrom": "20",
+        "pos": 35433617,
+        "methylated_reads": 29,
+        "unmethylated_reads": 11,
+        "coverage": 40
+      },
+      {
+        "cpg_id": "chr20:35433699",
+        "beta": 0.7916666666666666,
+        "chrom": "20",
+        "pos": 35433699,
+        "methylated_reads": 38,
+        "unmethylated_reads": 10,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35433700",
+        "beta": 0.6956521739130435,
+        "chrom": "20",
+        "pos": 35433700,
+        "methylated_reads": 32,
+        "unmethylated_reads": 14,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35433770",
+        "beta": 0.8913043478260869,
+        "chrom": "20",
+        "pos": 35433770,
+        "methylated_reads": 41,
+        "unmethylated_reads": 5,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35433771",
+        "beta": 0.9137931034482759,
+        "chrom": "20",
+        "pos": 35433771,
+        "methylated_reads": 53,
+        "unmethylated_reads": 5,
+        "coverage": 58
+      },
+      {
+        "cpg_id": "chr20:35433924",
+        "beta": 0.851063829787234,
+        "chrom": "20",
+        "pos": 35433924,
+        "methylated_reads": 40,
+        "unmethylated_reads": 7,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35433925",
+        "beta": 0.7692307692307693,
+        "chrom": "20",
+        "pos": 35433925,
+        "methylated_reads": 50,
+        "unmethylated_reads": 15,
+        "coverage": 65
+      },
+      {
+        "cpg_id": "chr20:35433932",
+        "beta": 0.5510204081632653,
+        "chrom": "20",
+        "pos": 35433932,
+        "methylated_reads": 27,
+        "unmethylated_reads": 22,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35433933",
+        "beta": 0.46875,
+        "chrom": "20",
+        "pos": 35433933,
+        "methylated_reads": 30,
+        "unmethylated_reads": 34,
+        "coverage": 64
+      },
+      {
+        "cpg_id": "chr20:35433962",
+        "beta": 0.7058823529411765,
+        "chrom": "20",
+        "pos": 35433962,
+        "methylated_reads": 36,
+        "unmethylated_reads": 15,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35433963",
+        "beta": 0.6883116883116883,
+        "chrom": "20",
+        "pos": 35433963,
+        "methylated_reads": 53,
+        "unmethylated_reads": 24,
+        "coverage": 77
+      },
+      {
+        "cpg_id": "chr20:35434006",
+        "beta": 0.9183673469387755,
+        "chrom": "20",
+        "pos": 35434006,
+        "methylated_reads": 45,
+        "unmethylated_reads": 4,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35434007",
+        "beta": 0.9857142857142858,
+        "chrom": "20",
+        "pos": 35434007,
+        "methylated_reads": 69,
+        "unmethylated_reads": 1,
+        "coverage": 70
+      },
+      {
+        "cpg_id": "chr20:35434008",
+        "beta": 0.8085106382978723,
+        "chrom": "20",
+        "pos": 35434008,
+        "methylated_reads": 38,
+        "unmethylated_reads": 9,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35434009",
+        "beta": 0.8591549295774648,
+        "chrom": "20",
+        "pos": 35434009,
+        "methylated_reads": 61,
+        "unmethylated_reads": 10,
+        "coverage": 71
+      },
+      {
+        "cpg_id": "chr20:35434040",
+        "beta": 0.0851063829787234,
+        "chrom": "20",
+        "pos": 35434040,
+        "methylated_reads": 4,
+        "unmethylated_reads": 43,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35434041",
+        "beta": 0.19117647058823528,
+        "chrom": "20",
+        "pos": 35434041,
+        "methylated_reads": 13,
+        "unmethylated_reads": 55,
+        "coverage": 68
+      },
+      {
+        "cpg_id": "chr20:35434083",
+        "beta": 0.15555555555555556,
+        "chrom": "20",
+        "pos": 35434083,
+        "methylated_reads": 7,
+        "unmethylated_reads": 38,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35434084",
+        "beta": 0.09230769230769231,
+        "chrom": "20",
+        "pos": 35434084,
+        "methylated_reads": 6,
+        "unmethylated_reads": 59,
+        "coverage": 65
+      },
+      {
+        "cpg_id": "chr20:35434102",
+        "beta": 0.9787234042553191,
+        "chrom": "20",
+        "pos": 35434102,
+        "methylated_reads": 46,
+        "unmethylated_reads": 1,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35434103",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35434103,
+        "methylated_reads": 55,
+        "unmethylated_reads": 0,
+        "coverage": 55
+      },
+      {
+        "cpg_id": "chr20:35434115",
+        "beta": 0.8913043478260869,
+        "chrom": "20",
+        "pos": 35434115,
+        "methylated_reads": 41,
+        "unmethylated_reads": 5,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35434116",
+        "beta": 0.9423076923076923,
+        "chrom": "20",
+        "pos": 35434116,
+        "methylated_reads": 49,
+        "unmethylated_reads": 3,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35434127",
+        "beta": 0.9583333333333334,
+        "chrom": "20",
+        "pos": 35434127,
+        "methylated_reads": 46,
+        "unmethylated_reads": 2,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35434128",
+        "beta": 0.9298245614035088,
+        "chrom": "20",
+        "pos": 35434128,
+        "methylated_reads": 53,
+        "unmethylated_reads": 4,
+        "coverage": 57
+      },
+      {
+        "cpg_id": "chr20:35434142",
+        "beta": 0.8867924528301887,
+        "chrom": "20",
+        "pos": 35434142,
+        "methylated_reads": 47,
+        "unmethylated_reads": 6,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35434143",
+        "beta": 0.9523809523809523,
+        "chrom": "20",
+        "pos": 35434143,
+        "methylated_reads": 60,
+        "unmethylated_reads": 3,
+        "coverage": 63
+      },
+      {
+        "cpg_id": "chr20:35434157",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35434157,
+        "methylated_reads": 52,
+        "unmethylated_reads": 0,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35434158",
+        "beta": 0.9692307692307692,
+        "chrom": "20",
+        "pos": 35434158,
+        "methylated_reads": 63,
+        "unmethylated_reads": 2,
+        "coverage": 65
+      },
+      {
+        "cpg_id": "chr20:35434169",
+        "beta": 0.6415094339622641,
+        "chrom": "20",
+        "pos": 35434169,
+        "methylated_reads": 34,
+        "unmethylated_reads": 19,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35434170",
+        "beta": 0.5909090909090909,
+        "chrom": "20",
+        "pos": 35434170,
+        "methylated_reads": 39,
+        "unmethylated_reads": 27,
+        "coverage": 66
+      },
+      {
+        "cpg_id": "chr20:35434210",
+        "beta": 0.9090909090909091,
+        "chrom": "20",
+        "pos": 35434210,
+        "methylated_reads": 50,
+        "unmethylated_reads": 5,
+        "coverage": 55
+      },
+      {
+        "cpg_id": "chr20:35434211",
+        "beta": 0.7931034482758621,
+        "chrom": "20",
+        "pos": 35434211,
+        "methylated_reads": 46,
+        "unmethylated_reads": 12,
+        "coverage": 58
+      },
+      {
+        "cpg_id": "chr20:35434219",
+        "beta": 0.5094339622641509,
+        "chrom": "20",
+        "pos": 35434219,
+        "methylated_reads": 27,
+        "unmethylated_reads": 26,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35434220",
+        "beta": 0.48148148148148145,
+        "chrom": "20",
+        "pos": 35434220,
+        "methylated_reads": 26,
+        "unmethylated_reads": 28,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35434243",
+        "beta": 0.7692307692307693,
+        "chrom": "20",
+        "pos": 35434243,
+        "methylated_reads": 40,
+        "unmethylated_reads": 12,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35434244",
+        "beta": 0.803921568627451,
+        "chrom": "20",
+        "pos": 35434244,
+        "methylated_reads": 41,
+        "unmethylated_reads": 10,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35434255",
+        "beta": 0.7916666666666666,
+        "chrom": "20",
+        "pos": 35434255,
+        "methylated_reads": 38,
+        "unmethylated_reads": 10,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35434256",
+        "beta": 0.9259259259259259,
+        "chrom": "20",
+        "pos": 35434256,
+        "methylated_reads": 50,
+        "unmethylated_reads": 4,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35434273",
+        "beta": 0.875,
+        "chrom": "20",
+        "pos": 35434273,
+        "methylated_reads": 42,
+        "unmethylated_reads": 6,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35434274",
+        "beta": 0.9555555555555556,
+        "chrom": "20",
+        "pos": 35434274,
+        "methylated_reads": 43,
+        "unmethylated_reads": 2,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35434276",
+        "beta": 0.9591836734693877,
+        "chrom": "20",
+        "pos": 35434276,
+        "methylated_reads": 47,
+        "unmethylated_reads": 2,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35434277",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35434277,
+        "methylated_reads": 47,
+        "unmethylated_reads": 0,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35434282",
+        "beta": 0.86,
+        "chrom": "20",
+        "pos": 35434282,
+        "methylated_reads": 43,
+        "unmethylated_reads": 7,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35434283",
+        "beta": 0.9565217391304348,
+        "chrom": "20",
+        "pos": 35434283,
+        "methylated_reads": 44,
+        "unmethylated_reads": 2,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35434285",
+        "beta": 0.9615384615384616,
+        "chrom": "20",
+        "pos": 35434285,
+        "methylated_reads": 50,
+        "unmethylated_reads": 2,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35434286",
+        "beta": 0.9555555555555556,
+        "chrom": "20",
+        "pos": 35434286,
+        "methylated_reads": 43,
+        "unmethylated_reads": 2,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35434310",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35434310,
+        "methylated_reads": 54,
+        "unmethylated_reads": 0,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35434311",
+        "beta": 0.9803921568627451,
+        "chrom": "20",
+        "pos": 35434311,
+        "methylated_reads": 50,
+        "unmethylated_reads": 1,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35434319",
+        "beta": 0.9642857142857143,
+        "chrom": "20",
+        "pos": 35434319,
+        "methylated_reads": 54,
+        "unmethylated_reads": 2,
+        "coverage": 56
+      },
+      {
+        "cpg_id": "chr20:35434320",
+        "beta": 0.9795918367346939,
+        "chrom": "20",
+        "pos": 35434320,
+        "methylated_reads": 48,
+        "unmethylated_reads": 1,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35434333",
+        "beta": 0.9454545454545454,
+        "chrom": "20",
+        "pos": 35434333,
+        "methylated_reads": 52,
+        "unmethylated_reads": 3,
+        "coverage": 55
+      },
+      {
+        "cpg_id": "chr20:35434334",
+        "beta": 0.9555555555555556,
+        "chrom": "20",
+        "pos": 35434334,
+        "methylated_reads": 43,
+        "unmethylated_reads": 2,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35434363",
+        "beta": 0.9230769230769231,
+        "chrom": "20",
+        "pos": 35434363,
+        "methylated_reads": 48,
+        "unmethylated_reads": 4,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35434364",
+        "beta": 0.8888888888888888,
+        "chrom": "20",
+        "pos": 35434364,
+        "methylated_reads": 40,
+        "unmethylated_reads": 5,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35434375",
+        "beta": 0.92,
+        "chrom": "20",
+        "pos": 35434375,
+        "methylated_reads": 46,
+        "unmethylated_reads": 4,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35434376",
+        "beta": 0.7954545454545454,
+        "chrom": "20",
+        "pos": 35434376,
+        "methylated_reads": 35,
+        "unmethylated_reads": 9,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35434403",
+        "beta": 0.8928571428571429,
+        "chrom": "20",
+        "pos": 35434403,
+        "methylated_reads": 50,
+        "unmethylated_reads": 6,
+        "coverage": 56
+      },
+      {
+        "cpg_id": "chr20:35434404",
+        "beta": 0.9090909090909091,
+        "chrom": "20",
+        "pos": 35434404,
+        "methylated_reads": 40,
+        "unmethylated_reads": 4,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35434414",
+        "beta": 0.9629629629629629,
+        "chrom": "20",
+        "pos": 35434414,
+        "methylated_reads": 52,
+        "unmethylated_reads": 2,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35434415",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35434415,
+        "methylated_reads": 45,
+        "unmethylated_reads": 0,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35434418",
+        "beta": 0.9444444444444444,
+        "chrom": "20",
+        "pos": 35434418,
+        "methylated_reads": 51,
+        "unmethylated_reads": 3,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35434419",
+        "beta": 0.9333333333333333,
+        "chrom": "20",
+        "pos": 35434419,
+        "methylated_reads": 42,
+        "unmethylated_reads": 3,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35434421",
+        "beta": 0.9259259259259259,
+        "chrom": "20",
+        "pos": 35434421,
+        "methylated_reads": 50,
+        "unmethylated_reads": 4,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35434422",
+        "beta": 0.9787234042553191,
+        "chrom": "20",
+        "pos": 35434422,
+        "methylated_reads": 46,
+        "unmethylated_reads": 1,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35434423",
+        "beta": 0.9444444444444444,
+        "chrom": "20",
+        "pos": 35434423,
+        "methylated_reads": 51,
+        "unmethylated_reads": 3,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35434424",
+        "beta": 0.9375,
+        "chrom": "20",
+        "pos": 35434424,
+        "methylated_reads": 45,
+        "unmethylated_reads": 3,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35434427",
+        "beta": 0.8214285714285714,
+        "chrom": "20",
+        "pos": 35434427,
+        "methylated_reads": 46,
+        "unmethylated_reads": 10,
+        "coverage": 56
+      },
+      {
+        "cpg_id": "chr20:35434428",
+        "beta": 0.8723404255319149,
+        "chrom": "20",
+        "pos": 35434428,
+        "methylated_reads": 41,
+        "unmethylated_reads": 6,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35434441",
+        "beta": 0.7321428571428571,
+        "chrom": "20",
+        "pos": 35434441,
+        "methylated_reads": 41,
+        "unmethylated_reads": 15,
+        "coverage": 56
+      },
+      {
+        "cpg_id": "chr20:35434442",
+        "beta": 0.8627450980392157,
+        "chrom": "20",
+        "pos": 35434442,
+        "methylated_reads": 44,
+        "unmethylated_reads": 7,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35434451",
+        "beta": 0.5370370370370371,
+        "chrom": "20",
+        "pos": 35434451,
+        "methylated_reads": 29,
+        "unmethylated_reads": 25,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35434452",
+        "beta": 0.6346153846153846,
+        "chrom": "20",
+        "pos": 35434452,
+        "methylated_reads": 33,
+        "unmethylated_reads": 19,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35434462",
+        "beta": 0.5471698113207547,
+        "chrom": "20",
+        "pos": 35434462,
+        "methylated_reads": 29,
+        "unmethylated_reads": 24,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35434463",
+        "beta": 0.42857142857142855,
+        "chrom": "20",
+        "pos": 35434463,
+        "methylated_reads": 21,
+        "unmethylated_reads": 28,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35434497",
+        "beta": 0.23809523809523808,
+        "chrom": "20",
+        "pos": 35434497,
+        "methylated_reads": 15,
+        "unmethylated_reads": 48,
+        "coverage": 63
+      },
+      {
+        "cpg_id": "chr20:35434498",
+        "beta": 0.27450980392156865,
+        "chrom": "20",
+        "pos": 35434498,
+        "methylated_reads": 14,
+        "unmethylated_reads": 37,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35434513",
+        "beta": 0.9666666666666667,
+        "chrom": "20",
+        "pos": 35434513,
+        "methylated_reads": 58,
+        "unmethylated_reads": 2,
+        "coverage": 60
+      },
+      {
+        "cpg_id": "chr20:35434514",
+        "beta": 0.9803921568627451,
+        "chrom": "20",
+        "pos": 35434514,
+        "methylated_reads": 50,
+        "unmethylated_reads": 1,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35434532",
+        "beta": 0.9838709677419355,
+        "chrom": "20",
+        "pos": 35434532,
+        "methylated_reads": 61,
+        "unmethylated_reads": 1,
+        "coverage": 62
+      },
+      {
+        "cpg_id": "chr20:35434533",
+        "beta": 0.92,
+        "chrom": "20",
+        "pos": 35434533,
+        "methylated_reads": 46,
+        "unmethylated_reads": 4,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35434553",
+        "beta": 0.8064516129032258,
+        "chrom": "20",
+        "pos": 35434553,
+        "methylated_reads": 50,
+        "unmethylated_reads": 12,
+        "coverage": 62
+      },
+      {
+        "cpg_id": "chr20:35434554",
+        "beta": 0.8604651162790697,
+        "chrom": "20",
+        "pos": 35434554,
+        "methylated_reads": 37,
+        "unmethylated_reads": 6,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35434568",
+        "beta": 0.967741935483871,
+        "chrom": "20",
+        "pos": 35434568,
+        "methylated_reads": 60,
+        "unmethylated_reads": 2,
+        "coverage": 62
+      },
+      {
+        "cpg_id": "chr20:35434569",
+        "beta": 0.9523809523809523,
+        "chrom": "20",
+        "pos": 35434569,
+        "methylated_reads": 40,
+        "unmethylated_reads": 2,
+        "coverage": 42
+      },
+      {
+        "cpg_id": "chr20:35434573",
+        "beta": 0.9384615384615385,
+        "chrom": "20",
+        "pos": 35434573,
+        "methylated_reads": 61,
+        "unmethylated_reads": 4,
+        "coverage": 65
+      },
+      {
+        "cpg_id": "chr20:35434574",
+        "beta": 0.9534883720930233,
+        "chrom": "20",
+        "pos": 35434574,
+        "methylated_reads": 41,
+        "unmethylated_reads": 2,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35434589",
+        "beta": 0.6538461538461539,
+        "chrom": "20",
+        "pos": 35434589,
+        "methylated_reads": 17,
+        "unmethylated_reads": 9,
+        "coverage": 26
+      },
+      {
+        "cpg_id": "chr20:35434590",
+        "beta": 0.3333333333333333,
+        "chrom": "20",
+        "pos": 35434590,
+        "methylated_reads": 14,
+        "unmethylated_reads": 28,
+        "coverage": 42
+      },
+      {
+        "cpg_id": "chr20:35434593",
+        "beta": 0.8392857142857143,
+        "chrom": "20",
+        "pos": 35434593,
+        "methylated_reads": 47,
+        "unmethylated_reads": 9,
+        "coverage": 56
+      },
+      {
+        "cpg_id": "chr20:35434594",
+        "beta": 0.9534883720930233,
+        "chrom": "20",
+        "pos": 35434594,
+        "methylated_reads": 41,
+        "unmethylated_reads": 2,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35434600",
+        "beta": 0.9038461538461539,
+        "chrom": "20",
+        "pos": 35434600,
+        "methylated_reads": 47,
+        "unmethylated_reads": 5,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35434601",
+        "beta": 0.8809523809523809,
+        "chrom": "20",
+        "pos": 35434601,
+        "methylated_reads": 37,
+        "unmethylated_reads": 5,
+        "coverage": 42
+      },
+      {
+        "cpg_id": "chr20:35434604",
+        "beta": 0.6851851851851852,
+        "chrom": "20",
+        "pos": 35434604,
+        "methylated_reads": 37,
+        "unmethylated_reads": 17,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35434605",
+        "beta": 0.7560975609756098,
+        "chrom": "20",
+        "pos": 35434605,
+        "methylated_reads": 31,
+        "unmethylated_reads": 10,
+        "coverage": 41
+      },
+      {
+        "cpg_id": "chr20:35434639",
+        "beta": 0.8222222222222222,
+        "chrom": "20",
+        "pos": 35434639,
+        "methylated_reads": 37,
+        "unmethylated_reads": 8,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35434640",
+        "beta": 0.8260869565217391,
+        "chrom": "20",
+        "pos": 35434640,
+        "methylated_reads": 38,
+        "unmethylated_reads": 8,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35434643",
+        "beta": 0.7674418604651163,
+        "chrom": "20",
+        "pos": 35434643,
+        "methylated_reads": 33,
+        "unmethylated_reads": 10,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35434644",
+        "beta": 0.7647058823529411,
+        "chrom": "20",
+        "pos": 35434644,
+        "methylated_reads": 39,
+        "unmethylated_reads": 12,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35434649",
+        "beta": 0.9047619047619048,
+        "chrom": "20",
+        "pos": 35434649,
+        "methylated_reads": 38,
+        "unmethylated_reads": 4,
+        "coverage": 42
+      },
+      {
+        "cpg_id": "chr20:35434650",
+        "beta": 0.9607843137254902,
+        "chrom": "20",
+        "pos": 35434650,
+        "methylated_reads": 49,
+        "unmethylated_reads": 2,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35434656",
+        "beta": 0.4523809523809524,
+        "chrom": "20",
+        "pos": 35434656,
+        "methylated_reads": 19,
+        "unmethylated_reads": 23,
+        "coverage": 42
+      },
+      {
+        "cpg_id": "chr20:35434657",
+        "beta": 0.5490196078431373,
+        "chrom": "20",
+        "pos": 35434657,
+        "methylated_reads": 28,
+        "unmethylated_reads": 23,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35434668",
+        "beta": 0.3076923076923077,
+        "chrom": "20",
+        "pos": 35434668,
+        "methylated_reads": 12,
+        "unmethylated_reads": 27,
+        "coverage": 39
+      },
+      {
+        "cpg_id": "chr20:35434669",
+        "beta": 0.39622641509433965,
+        "chrom": "20",
+        "pos": 35434669,
+        "methylated_reads": 21,
+        "unmethylated_reads": 32,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35434674",
+        "beta": 0.8372093023255814,
+        "chrom": "20",
+        "pos": 35434674,
+        "methylated_reads": 36,
+        "unmethylated_reads": 7,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35434675",
+        "beta": 0.8679245283018868,
+        "chrom": "20",
+        "pos": 35434675,
+        "methylated_reads": 46,
+        "unmethylated_reads": 7,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35434687",
+        "beta": 0.95,
+        "chrom": "20",
+        "pos": 35434687,
+        "methylated_reads": 38,
+        "unmethylated_reads": 2,
+        "coverage": 40
+      },
+      {
+        "cpg_id": "chr20:35434688",
+        "beta": 0.9795918367346939,
+        "chrom": "20",
+        "pos": 35434688,
+        "methylated_reads": 48,
+        "unmethylated_reads": 1,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35434696",
+        "beta": 0.8484848484848485,
+        "chrom": "20",
+        "pos": 35434696,
+        "methylated_reads": 28,
+        "unmethylated_reads": 5,
+        "coverage": 33
+      },
+      {
+        "cpg_id": "chr20:35434697",
+        "beta": 0.875,
+        "chrom": "20",
+        "pos": 35434697,
+        "methylated_reads": 42,
+        "unmethylated_reads": 6,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35434703",
+        "beta": 0.9090909090909091,
+        "chrom": "20",
+        "pos": 35434703,
+        "methylated_reads": 30,
+        "unmethylated_reads": 3,
+        "coverage": 33
+      },
+      {
+        "cpg_id": "chr20:35434704",
+        "beta": 0.8571428571428571,
+        "chrom": "20",
+        "pos": 35434704,
+        "methylated_reads": 42,
+        "unmethylated_reads": 7,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35434748",
+        "beta": 0.35714285714285715,
+        "chrom": "20",
+        "pos": 35434748,
+        "methylated_reads": 10,
+        "unmethylated_reads": 18,
+        "coverage": 28
+      },
+      {
+        "cpg_id": "chr20:35434749",
+        "beta": 0.5813953488372093,
+        "chrom": "20",
+        "pos": 35434749,
+        "methylated_reads": 25,
+        "unmethylated_reads": 18,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35434769",
+        "beta": 0.7692307692307693,
+        "chrom": "20",
+        "pos": 35434769,
+        "methylated_reads": 20,
+        "unmethylated_reads": 6,
+        "coverage": 26
+      },
+      {
+        "cpg_id": "chr20:35434770",
+        "beta": 0.7804878048780488,
+        "chrom": "20",
+        "pos": 35434770,
+        "methylated_reads": 32,
+        "unmethylated_reads": 9,
+        "coverage": 41
+      },
+      {
+        "cpg_id": "chr20:35434777",
+        "beta": 0.9333333333333333,
+        "chrom": "20",
+        "pos": 35434777,
+        "methylated_reads": 28,
+        "unmethylated_reads": 2,
+        "coverage": 30
+      },
+      {
+        "cpg_id": "chr20:35434778",
+        "beta": 0.8717948717948718,
+        "chrom": "20",
+        "pos": 35434778,
+        "methylated_reads": 34,
+        "unmethylated_reads": 5,
+        "coverage": 39
+      },
+      {
+        "cpg_id": "chr20:35434841",
+        "beta": 0.7297297297297297,
+        "chrom": "20",
+        "pos": 35434841,
+        "methylated_reads": 27,
+        "unmethylated_reads": 10,
+        "coverage": 37
+      },
+      {
+        "cpg_id": "chr20:35434842",
+        "beta": 0.8222222222222222,
+        "chrom": "20",
+        "pos": 35434842,
+        "methylated_reads": 37,
+        "unmethylated_reads": 8,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35434849",
+        "beta": 0.918918918918919,
+        "chrom": "20",
+        "pos": 35434849,
+        "methylated_reads": 34,
+        "unmethylated_reads": 3,
+        "coverage": 37
+      },
+      {
+        "cpg_id": "chr20:35434850",
+        "beta": 0.9574468085106383,
+        "chrom": "20",
+        "pos": 35434850,
+        "methylated_reads": 45,
+        "unmethylated_reads": 2,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35434973",
+        "beta": 0.07407407407407407,
+        "chrom": "20",
+        "pos": 35434973,
+        "methylated_reads": 4,
+        "unmethylated_reads": 50,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35434974",
+        "beta": 0.07407407407407407,
+        "chrom": "20",
+        "pos": 35434974,
+        "methylated_reads": 4,
+        "unmethylated_reads": 50,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35435020",
+        "beta": 0.7941176470588235,
+        "chrom": "20",
+        "pos": 35435020,
+        "methylated_reads": 54,
+        "unmethylated_reads": 14,
+        "coverage": 68
+      },
+      {
+        "cpg_id": "chr20:35435021",
+        "beta": 0.8392857142857143,
+        "chrom": "20",
+        "pos": 35435021,
+        "methylated_reads": 47,
+        "unmethylated_reads": 9,
+        "coverage": 56
+      },
+      {
+        "cpg_id": "chr20:35435049",
+        "beta": 0.8382352941176471,
+        "chrom": "20",
+        "pos": 35435049,
+        "methylated_reads": 57,
+        "unmethylated_reads": 11,
+        "coverage": 68
+      },
+      {
+        "cpg_id": "chr20:35435050",
+        "beta": 0.9814814814814815,
+        "chrom": "20",
+        "pos": 35435050,
+        "methylated_reads": 53,
+        "unmethylated_reads": 1,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35435116",
+        "beta": 0.9516129032258065,
+        "chrom": "20",
+        "pos": 35435116,
+        "methylated_reads": 59,
+        "unmethylated_reads": 3,
+        "coverage": 62
+      },
+      {
+        "cpg_id": "chr20:35435117",
+        "beta": 0.9622641509433962,
+        "chrom": "20",
+        "pos": 35435117,
+        "methylated_reads": 51,
+        "unmethylated_reads": 2,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35435241",
+        "beta": 0.9622641509433962,
+        "chrom": "20",
+        "pos": 35435241,
+        "methylated_reads": 51,
+        "unmethylated_reads": 2,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35435242",
+        "beta": 0.9459459459459459,
+        "chrom": "20",
+        "pos": 35435242,
+        "methylated_reads": 35,
+        "unmethylated_reads": 2,
+        "coverage": 37
+      },
+      {
+        "cpg_id": "chr20:35435248",
+        "beta": 0.9423076923076923,
+        "chrom": "20",
+        "pos": 35435248,
+        "methylated_reads": 49,
+        "unmethylated_reads": 3,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35435249",
+        "beta": 0.9459459459459459,
+        "chrom": "20",
+        "pos": 35435249,
+        "methylated_reads": 35,
+        "unmethylated_reads": 2,
+        "coverage": 37
+      },
+      {
+        "cpg_id": "chr20:35435319",
+        "beta": 0.6388888888888888,
+        "chrom": "20",
+        "pos": 35435319,
+        "methylated_reads": 23,
+        "unmethylated_reads": 13,
+        "coverage": 36
+      },
+      {
+        "cpg_id": "chr20:35435320",
+        "beta": 0.55,
+        "chrom": "20",
+        "pos": 35435320,
+        "methylated_reads": 22,
+        "unmethylated_reads": 18,
+        "coverage": 40
+      },
+      {
+        "cpg_id": "chr20:35435400",
+        "beta": 0.5454545454545454,
+        "chrom": "20",
+        "pos": 35435400,
+        "methylated_reads": 12,
+        "unmethylated_reads": 10,
+        "coverage": 22
+      },
+      {
+        "cpg_id": "chr20:35435401",
+        "beta": 0.6923076923076923,
+        "chrom": "20",
+        "pos": 35435401,
+        "methylated_reads": 18,
+        "unmethylated_reads": 8,
+        "coverage": 26
+      },
+      {
+        "cpg_id": "chr20:35435408",
+        "beta": 0.6190476190476191,
+        "chrom": "20",
+        "pos": 35435408,
+        "methylated_reads": 13,
+        "unmethylated_reads": 8,
+        "coverage": 21
+      },
+      {
+        "cpg_id": "chr20:35435409",
+        "beta": 0.5454545454545454,
+        "chrom": "20",
+        "pos": 35435409,
+        "methylated_reads": 12,
+        "unmethylated_reads": 10,
+        "coverage": 22
+      },
+      {
+        "cpg_id": "chr20:35435421",
+        "beta": 0.5,
+        "chrom": "20",
+        "pos": 35435421,
+        "methylated_reads": 7,
+        "unmethylated_reads": 7,
+        "coverage": 14
+      },
+      {
+        "cpg_id": "chr20:35435422",
+        "beta": 0.3888888888888889,
+        "chrom": "20",
+        "pos": 35435422,
+        "methylated_reads": 7,
+        "unmethylated_reads": 11,
+        "coverage": 18
+      },
+      {
+        "cpg_id": "chr20:35435503",
+        "beta": 0.8571428571428571,
+        "chrom": "20",
+        "pos": 35435503,
+        "methylated_reads": 18,
+        "unmethylated_reads": 3,
+        "coverage": 21
+      },
+      {
+        "cpg_id": "chr20:35435504",
+        "beta": 0.55,
+        "chrom": "20",
+        "pos": 35435504,
+        "methylated_reads": 11,
+        "unmethylated_reads": 9,
+        "coverage": 20
+      },
+      {
+        "cpg_id": "chr20:35435822",
+        "beta": 0.9864864864864865,
+        "chrom": "20",
+        "pos": 35435822,
+        "methylated_reads": 73,
+        "unmethylated_reads": 1,
+        "coverage": 74
+      },
+      {
+        "cpg_id": "chr20:35435823",
+        "beta": 0.9245283018867925,
+        "chrom": "20",
+        "pos": 35435823,
+        "methylated_reads": 49,
+        "unmethylated_reads": 4,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35435831",
+        "beta": 0.9852941176470589,
+        "chrom": "20",
+        "pos": 35435831,
+        "methylated_reads": 67,
+        "unmethylated_reads": 1,
+        "coverage": 68
+      },
+      {
+        "cpg_id": "chr20:35435832",
+        "beta": 0.92,
+        "chrom": "20",
+        "pos": 35435832,
+        "methylated_reads": 46,
+        "unmethylated_reads": 4,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35435958",
+        "beta": 0.7972972972972973,
+        "chrom": "20",
+        "pos": 35435958,
+        "methylated_reads": 59,
+        "unmethylated_reads": 15,
+        "coverage": 74
+      },
+      {
+        "cpg_id": "chr20:35435959",
+        "beta": 0.7333333333333333,
+        "chrom": "20",
+        "pos": 35435959,
+        "methylated_reads": 33,
+        "unmethylated_reads": 12,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35435971",
+        "beta": 0.8648648648648649,
+        "chrom": "20",
+        "pos": 35435971,
+        "methylated_reads": 64,
+        "unmethylated_reads": 10,
+        "coverage": 74
+      },
+      {
+        "cpg_id": "chr20:35435972",
+        "beta": 0.9111111111111111,
+        "chrom": "20",
+        "pos": 35435972,
+        "methylated_reads": 41,
+        "unmethylated_reads": 4,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35435987",
+        "beta": 0.6753246753246753,
+        "chrom": "20",
+        "pos": 35435987,
+        "methylated_reads": 52,
+        "unmethylated_reads": 25,
+        "coverage": 77
+      },
+      {
+        "cpg_id": "chr20:35435988",
+        "beta": 0.673469387755102,
+        "chrom": "20",
+        "pos": 35435988,
+        "methylated_reads": 33,
+        "unmethylated_reads": 16,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35436086",
+        "beta": 0.8235294117647058,
+        "chrom": "20",
+        "pos": 35436086,
+        "methylated_reads": 56,
+        "unmethylated_reads": 12,
+        "coverage": 68
+      },
+      {
+        "cpg_id": "chr20:35436087",
+        "beta": 0.7636363636363637,
+        "chrom": "20",
+        "pos": 35436087,
+        "methylated_reads": 42,
+        "unmethylated_reads": 13,
+        "coverage": 55
+      },
+      {
+        "cpg_id": "chr20:35436222",
+        "beta": 0.9361702127659575,
+        "chrom": "20",
+        "pos": 35436222,
+        "methylated_reads": 44,
+        "unmethylated_reads": 3,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35436223",
+        "beta": 0.8888888888888888,
+        "chrom": "20",
+        "pos": 35436223,
+        "methylated_reads": 24,
+        "unmethylated_reads": 3,
+        "coverage": 27
+      },
+      {
+        "cpg_id": "chr20:35436328",
+        "beta": 0.02702702702702703,
+        "chrom": "20",
+        "pos": 35436328,
+        "methylated_reads": 1,
+        "unmethylated_reads": 36,
+        "coverage": 37
+      },
+      {
+        "cpg_id": "chr20:35436443",
+        "beta": 0.4,
+        "chrom": "20",
+        "pos": 35436443,
+        "methylated_reads": 8,
+        "unmethylated_reads": 12,
+        "coverage": 20
+      },
+      {
+        "cpg_id": "chr20:35436444",
+        "beta": 0.3333333333333333,
+        "chrom": "20",
+        "pos": 35436444,
+        "methylated_reads": 4,
+        "unmethylated_reads": 8,
+        "coverage": 12
+      },
+      {
+        "cpg_id": "chr20:35436565",
+        "beta": 0.9090909090909091,
+        "chrom": "20",
+        "pos": 35436565,
+        "methylated_reads": 60,
+        "unmethylated_reads": 6,
+        "coverage": 66
+      },
+      {
+        "cpg_id": "chr20:35436566",
+        "beta": 0.9459459459459459,
+        "chrom": "20",
+        "pos": 35436566,
+        "methylated_reads": 35,
+        "unmethylated_reads": 2,
+        "coverage": 37
+      },
+      {
+        "cpg_id": "chr20:35436708",
+        "beta": 0.5409836065573771,
+        "chrom": "20",
+        "pos": 35436708,
+        "methylated_reads": 33,
+        "unmethylated_reads": 28,
+        "coverage": 61
+      },
+      {
+        "cpg_id": "chr20:35436709",
+        "beta": 0.43137254901960786,
+        "chrom": "20",
+        "pos": 35436709,
+        "methylated_reads": 22,
+        "unmethylated_reads": 29,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35436750",
+        "beta": 0.39436619718309857,
+        "chrom": "20",
+        "pos": 35436750,
+        "methylated_reads": 28,
+        "unmethylated_reads": 43,
+        "coverage": 71
+      },
+      {
+        "cpg_id": "chr20:35436751",
+        "beta": 0.5084745762711864,
+        "chrom": "20",
+        "pos": 35436751,
+        "methylated_reads": 30,
+        "unmethylated_reads": 29,
+        "coverage": 59
+      },
+      {
+        "cpg_id": "chr20:35436913",
+        "beta": 0.9454545454545454,
+        "chrom": "20",
+        "pos": 35436913,
+        "methylated_reads": 52,
+        "unmethylated_reads": 3,
+        "coverage": 55
+      },
+      {
+        "cpg_id": "chr20:35436914",
+        "beta": 0.9814814814814815,
+        "chrom": "20",
+        "pos": 35436914,
+        "methylated_reads": 53,
+        "unmethylated_reads": 1,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35436923",
+        "beta": 0.9285714285714286,
+        "chrom": "20",
+        "pos": 35436923,
+        "methylated_reads": 52,
+        "unmethylated_reads": 4,
+        "coverage": 56
+      },
+      {
+        "cpg_id": "chr20:35436924",
+        "beta": 0.9444444444444444,
+        "chrom": "20",
+        "pos": 35436924,
+        "methylated_reads": 51,
+        "unmethylated_reads": 3,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35436953",
+        "beta": 0.8947368421052632,
+        "chrom": "20",
+        "pos": 35436953,
+        "methylated_reads": 51,
+        "unmethylated_reads": 6,
+        "coverage": 57
+      },
+      {
+        "cpg_id": "chr20:35436954",
+        "beta": 0.8846153846153846,
+        "chrom": "20",
+        "pos": 35436954,
+        "methylated_reads": 46,
+        "unmethylated_reads": 6,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35436998",
+        "beta": 0.75,
+        "chrom": "20",
+        "pos": 35436998,
+        "methylated_reads": 51,
+        "unmethylated_reads": 17,
+        "coverage": 68
+      },
+      {
+        "cpg_id": "chr20:35436999",
+        "beta": 0.7358490566037735,
+        "chrom": "20",
+        "pos": 35436999,
+        "methylated_reads": 39,
+        "unmethylated_reads": 14,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35437023",
+        "beta": 0.19117647058823528,
+        "chrom": "20",
+        "pos": 35437023,
+        "methylated_reads": 13,
+        "unmethylated_reads": 55,
+        "coverage": 68
+      },
+      {
+        "cpg_id": "chr20:35437024",
+        "beta": 0.12727272727272726,
+        "chrom": "20",
+        "pos": 35437024,
+        "methylated_reads": 7,
+        "unmethylated_reads": 48,
+        "coverage": 55
+      },
+      {
+        "cpg_id": "chr20:35437081",
+        "beta": 0.6470588235294118,
+        "chrom": "20",
+        "pos": 35437081,
+        "methylated_reads": 44,
+        "unmethylated_reads": 24,
+        "coverage": 68
+      },
+      {
+        "cpg_id": "chr20:35437082",
+        "beta": 0.6956521739130435,
+        "chrom": "20",
+        "pos": 35437082,
+        "methylated_reads": 32,
+        "unmethylated_reads": 14,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35437183",
+        "beta": 0.3114754098360656,
+        "chrom": "20",
+        "pos": 35437183,
+        "methylated_reads": 19,
+        "unmethylated_reads": 42,
+        "coverage": 61
+      },
+      {
+        "cpg_id": "chr20:35437184",
+        "beta": 0.11538461538461539,
+        "chrom": "20",
+        "pos": 35437184,
+        "methylated_reads": 3,
+        "unmethylated_reads": 23,
+        "coverage": 26
+      },
+      {
+        "cpg_id": "chr20:35437271",
+        "beta": 0.3469387755102041,
+        "chrom": "20",
+        "pos": 35437271,
+        "methylated_reads": 17,
+        "unmethylated_reads": 32,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35437272",
+        "beta": 0.6111111111111112,
+        "chrom": "20",
+        "pos": 35437272,
+        "methylated_reads": 11,
+        "unmethylated_reads": 7,
+        "coverage": 18
+      },
+      {
+        "cpg_id": "chr20:35437287",
+        "beta": 0.4318181818181818,
+        "chrom": "20",
+        "pos": 35437287,
+        "methylated_reads": 19,
+        "unmethylated_reads": 25,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35437288",
+        "beta": 0.6470588235294118,
+        "chrom": "20",
+        "pos": 35437288,
+        "methylated_reads": 11,
+        "unmethylated_reads": 6,
+        "coverage": 17
+      },
+      {
+        "cpg_id": "chr20:35437355",
+        "beta": 0.9117647058823529,
+        "chrom": "20",
+        "pos": 35437355,
+        "methylated_reads": 31,
+        "unmethylated_reads": 3,
+        "coverage": 34
+      },
+      {
+        "cpg_id": "chr20:35437356",
+        "beta": 0.782608695652174,
+        "chrom": "20",
+        "pos": 35437356,
+        "methylated_reads": 18,
+        "unmethylated_reads": 5,
+        "coverage": 23
+      },
+      {
+        "cpg_id": "chr20:35437385",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35437385,
+        "methylated_reads": 26,
+        "unmethylated_reads": 0,
+        "coverage": 26
+      },
+      {
+        "cpg_id": "chr20:35437386",
+        "beta": 0.896551724137931,
+        "chrom": "20",
+        "pos": 35437386,
+        "methylated_reads": 26,
+        "unmethylated_reads": 3,
+        "coverage": 29
+      },
+      {
+        "cpg_id": "chr20:35437392",
+        "beta": 0.92,
+        "chrom": "20",
+        "pos": 35437392,
+        "methylated_reads": 23,
+        "unmethylated_reads": 2,
+        "coverage": 25
+      },
+      {
+        "cpg_id": "chr20:35437393",
+        "beta": 0.9444444444444444,
+        "chrom": "20",
+        "pos": 35437393,
+        "methylated_reads": 34,
+        "unmethylated_reads": 2,
+        "coverage": 36
+      },
+      {
+        "cpg_id": "chr20:35437404",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35437404,
+        "methylated_reads": 23,
+        "unmethylated_reads": 0,
+        "coverage": 23
+      },
+      {
+        "cpg_id": "chr20:35437405",
+        "beta": 0.9444444444444444,
+        "chrom": "20",
+        "pos": 35437405,
+        "methylated_reads": 34,
+        "unmethylated_reads": 2,
+        "coverage": 36
+      },
+      {
+        "cpg_id": "chr20:35437418",
+        "beta": 0.6818181818181818,
+        "chrom": "20",
+        "pos": 35437418,
+        "methylated_reads": 15,
+        "unmethylated_reads": 7,
+        "coverage": 22
+      },
+      {
+        "cpg_id": "chr20:35437419",
+        "beta": 0.675,
+        "chrom": "20",
+        "pos": 35437419,
+        "methylated_reads": 27,
+        "unmethylated_reads": 13,
+        "coverage": 40
+      },
+      {
+        "cpg_id": "chr20:35437441",
+        "beta": 0.8095238095238095,
+        "chrom": "20",
+        "pos": 35437441,
+        "methylated_reads": 17,
+        "unmethylated_reads": 4,
+        "coverage": 21
+      },
+      {
+        "cpg_id": "chr20:35437442",
+        "beta": 0.7941176470588235,
+        "chrom": "20",
+        "pos": 35437442,
+        "methylated_reads": 27,
+        "unmethylated_reads": 7,
+        "coverage": 34
+      },
+      {
+        "cpg_id": "chr20:35437446",
+        "beta": 0.7272727272727273,
+        "chrom": "20",
+        "pos": 35437446,
+        "methylated_reads": 16,
+        "unmethylated_reads": 6,
+        "coverage": 22
+      },
+      {
+        "cpg_id": "chr20:35437447",
+        "beta": 0.35294117647058826,
+        "chrom": "20",
+        "pos": 35437447,
+        "methylated_reads": 12,
+        "unmethylated_reads": 22,
+        "coverage": 34
+      },
+      {
+        "cpg_id": "chr20:35437462",
+        "beta": 0.75,
+        "chrom": "20",
+        "pos": 35437462,
+        "methylated_reads": 18,
+        "unmethylated_reads": 6,
+        "coverage": 24
+      },
+      {
+        "cpg_id": "chr20:35437463",
+        "beta": 0.6764705882352942,
+        "chrom": "20",
+        "pos": 35437463,
+        "methylated_reads": 23,
+        "unmethylated_reads": 11,
+        "coverage": 34
+      },
+      {
+        "cpg_id": "chr20:35437472",
+        "beta": 0.8571428571428571,
+        "chrom": "20",
+        "pos": 35437472,
+        "methylated_reads": 24,
+        "unmethylated_reads": 4,
+        "coverage": 28
+      },
+      {
+        "cpg_id": "chr20:35437473",
+        "beta": 0.7714285714285715,
+        "chrom": "20",
+        "pos": 35437473,
+        "methylated_reads": 27,
+        "unmethylated_reads": 8,
+        "coverage": 35
+      },
+      {
+        "cpg_id": "chr20:35437541",
+        "beta": 0.13636363636363635,
+        "chrom": "20",
+        "pos": 35437541,
+        "methylated_reads": 6,
+        "unmethylated_reads": 38,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35437542",
+        "beta": 0.13513513513513514,
+        "chrom": "20",
+        "pos": 35437542,
+        "methylated_reads": 5,
+        "unmethylated_reads": 32,
+        "coverage": 37
+      },
+      {
+        "cpg_id": "chr20:35437570",
+        "beta": 0.32,
+        "chrom": "20",
+        "pos": 35437570,
+        "methylated_reads": 16,
+        "unmethylated_reads": 34,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35437571",
+        "beta": 0.3170731707317073,
+        "chrom": "20",
+        "pos": 35437571,
+        "methylated_reads": 13,
+        "unmethylated_reads": 28,
+        "coverage": 41
+      },
+      {
+        "cpg_id": "chr20:35437622",
+        "beta": 0.7441860465116279,
+        "chrom": "20",
+        "pos": 35437622,
+        "methylated_reads": 32,
+        "unmethylated_reads": 11,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35437623",
+        "beta": 0.6595744680851063,
+        "chrom": "20",
+        "pos": 35437623,
+        "methylated_reads": 31,
+        "unmethylated_reads": 16,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35437626",
+        "beta": 0.9285714285714286,
+        "chrom": "20",
+        "pos": 35437626,
+        "methylated_reads": 39,
+        "unmethylated_reads": 3,
+        "coverage": 42
+      },
+      {
+        "cpg_id": "chr20:35437627",
+        "beta": 0.9375,
+        "chrom": "20",
+        "pos": 35437627,
+        "methylated_reads": 45,
+        "unmethylated_reads": 3,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35437688",
+        "beta": 0.7241379310344828,
+        "chrom": "20",
+        "pos": 35437688,
+        "methylated_reads": 21,
+        "unmethylated_reads": 8,
+        "coverage": 29
+      },
+      {
+        "cpg_id": "chr20:35437689",
+        "beta": 0.75,
+        "chrom": "20",
+        "pos": 35437689,
+        "methylated_reads": 39,
+        "unmethylated_reads": 13,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35437760",
+        "beta": 0.8148148148148148,
+        "chrom": "20",
+        "pos": 35437760,
+        "methylated_reads": 22,
+        "unmethylated_reads": 5,
+        "coverage": 27
+      },
+      {
+        "cpg_id": "chr20:35437761",
+        "beta": 0.9166666666666666,
+        "chrom": "20",
+        "pos": 35437761,
+        "methylated_reads": 33,
+        "unmethylated_reads": 3,
+        "coverage": 36
+      },
+      {
+        "cpg_id": "chr20:35437765",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35437765,
+        "methylated_reads": 28,
+        "unmethylated_reads": 0,
+        "coverage": 28
+      },
+      {
+        "cpg_id": "chr20:35437766",
+        "beta": 0.8611111111111112,
+        "chrom": "20",
+        "pos": 35437766,
+        "methylated_reads": 31,
+        "unmethylated_reads": 5,
+        "coverage": 36
+      },
+      {
+        "cpg_id": "chr20:35437941",
+        "beta": 0.9016393442622951,
+        "chrom": "20",
+        "pos": 35437941,
+        "methylated_reads": 55,
+        "unmethylated_reads": 6,
+        "coverage": 61
+      },
+      {
+        "cpg_id": "chr20:35437942",
+        "beta": 0.9387755102040817,
+        "chrom": "20",
+        "pos": 35437942,
+        "methylated_reads": 46,
+        "unmethylated_reads": 3,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35437966",
+        "beta": 0.9833333333333333,
+        "chrom": "20",
+        "pos": 35437966,
+        "methylated_reads": 59,
+        "unmethylated_reads": 1,
+        "coverage": 60
+      },
+      {
+        "cpg_id": "chr20:35437967",
+        "beta": 0.96,
+        "chrom": "20",
+        "pos": 35437967,
+        "methylated_reads": 48,
+        "unmethylated_reads": 2,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35437975",
+        "beta": 0.8852459016393442,
+        "chrom": "20",
+        "pos": 35437975,
+        "methylated_reads": 54,
+        "unmethylated_reads": 7,
+        "coverage": 61
+      },
+      {
+        "cpg_id": "chr20:35437976",
+        "beta": 0.8867924528301887,
+        "chrom": "20",
+        "pos": 35437976,
+        "methylated_reads": 47,
+        "unmethylated_reads": 6,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35438033",
+        "beta": 0.875,
+        "chrom": "20",
+        "pos": 35438033,
+        "methylated_reads": 49,
+        "unmethylated_reads": 7,
+        "coverage": 56
+      },
+      {
+        "cpg_id": "chr20:35438034",
+        "beta": 0.8709677419354839,
+        "chrom": "20",
+        "pos": 35438034,
+        "methylated_reads": 54,
+        "unmethylated_reads": 8,
+        "coverage": 62
+      },
+      {
+        "cpg_id": "chr20:35438096",
+        "beta": 0.9807692307692307,
+        "chrom": "20",
+        "pos": 35438096,
+        "methylated_reads": 51,
+        "unmethylated_reads": 1,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35438097",
+        "beta": 0.9701492537313433,
+        "chrom": "20",
+        "pos": 35438097,
+        "methylated_reads": 65,
+        "unmethylated_reads": 2,
+        "coverage": 67
+      },
+      {
+        "cpg_id": "chr20:35438137",
+        "beta": 0.9130434782608695,
+        "chrom": "20",
+        "pos": 35438137,
+        "methylated_reads": 42,
+        "unmethylated_reads": 4,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35438138",
+        "beta": 0.984375,
+        "chrom": "20",
+        "pos": 35438138,
+        "methylated_reads": 63,
+        "unmethylated_reads": 1,
+        "coverage": 64
+      },
+      {
+        "cpg_id": "chr20:35438147",
+        "beta": 0.9318181818181818,
+        "chrom": "20",
+        "pos": 35438147,
+        "methylated_reads": 41,
+        "unmethylated_reads": 3,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35438148",
+        "beta": 0.9375,
+        "chrom": "20",
+        "pos": 35438148,
+        "methylated_reads": 60,
+        "unmethylated_reads": 4,
+        "coverage": 64
+      },
+      {
+        "cpg_id": "chr20:35438154",
+        "beta": 0.9512195121951219,
+        "chrom": "20",
+        "pos": 35438154,
+        "methylated_reads": 39,
+        "unmethylated_reads": 2,
+        "coverage": 41
+      },
+      {
+        "cpg_id": "chr20:35438155",
+        "beta": 0.9333333333333333,
+        "chrom": "20",
+        "pos": 35438155,
+        "methylated_reads": 56,
+        "unmethylated_reads": 4,
+        "coverage": 60
+      },
+      {
+        "cpg_id": "chr20:35438182",
+        "beta": 0.9210526315789473,
+        "chrom": "20",
+        "pos": 35438182,
+        "methylated_reads": 35,
+        "unmethylated_reads": 3,
+        "coverage": 38
+      },
+      {
+        "cpg_id": "chr20:35438183",
+        "beta": 0.8,
+        "chrom": "20",
+        "pos": 35438183,
+        "methylated_reads": 36,
+        "unmethylated_reads": 9,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35438202",
+        "beta": 0.32432432432432434,
+        "chrom": "20",
+        "pos": 35438202,
+        "methylated_reads": 12,
+        "unmethylated_reads": 25,
+        "coverage": 37
+      },
+      {
+        "cpg_id": "chr20:35438203",
+        "beta": 0.5227272727272727,
+        "chrom": "20",
+        "pos": 35438203,
+        "methylated_reads": 23,
+        "unmethylated_reads": 21,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35438206",
+        "beta": 0.7631578947368421,
+        "chrom": "20",
+        "pos": 35438206,
+        "methylated_reads": 29,
+        "unmethylated_reads": 9,
+        "coverage": 38
+      },
+      {
+        "cpg_id": "chr20:35438207",
+        "beta": 0.6666666666666666,
+        "chrom": "20",
+        "pos": 35438207,
+        "methylated_reads": 30,
+        "unmethylated_reads": 15,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35438290",
+        "beta": 0.9722222222222222,
+        "chrom": "20",
+        "pos": 35438290,
+        "methylated_reads": 35,
+        "unmethylated_reads": 1,
+        "coverage": 36
+      },
+      {
+        "cpg_id": "chr20:35438291",
+        "beta": 0.9545454545454546,
+        "chrom": "20",
+        "pos": 35438291,
+        "methylated_reads": 42,
+        "unmethylated_reads": 2,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35438451",
+        "beta": 0.030303030303030304,
+        "chrom": "20",
+        "pos": 35438451,
+        "methylated_reads": 1,
+        "unmethylated_reads": 32,
+        "coverage": 33
+      },
+      {
+        "cpg_id": "chr20:35438452",
+        "beta": 0.0,
+        "chrom": "20",
+        "pos": 35438452,
+        "methylated_reads": 0,
+        "unmethylated_reads": 64,
+        "coverage": 64
+      },
+      {
+        "cpg_id": "chr20:35438516",
+        "beta": 0.9705882352941176,
+        "chrom": "20",
+        "pos": 35438516,
+        "methylated_reads": 33,
+        "unmethylated_reads": 1,
+        "coverage": 34
+      },
+      {
+        "cpg_id": "chr20:35438517",
+        "beta": 0.9666666666666667,
+        "chrom": "20",
+        "pos": 35438517,
+        "methylated_reads": 58,
+        "unmethylated_reads": 2,
+        "coverage": 60
+      },
+      {
+        "cpg_id": "chr20:35438542",
+        "beta": 0.9166666666666666,
+        "chrom": "20",
+        "pos": 35438542,
+        "methylated_reads": 33,
+        "unmethylated_reads": 3,
+        "coverage": 36
+      },
+      {
+        "cpg_id": "chr20:35438543",
+        "beta": 0.95,
+        "chrom": "20",
+        "pos": 35438543,
+        "methylated_reads": 57,
+        "unmethylated_reads": 3,
+        "coverage": 60
+      },
+      {
+        "cpg_id": "chr20:35438553",
+        "beta": 0.5757575757575758,
+        "chrom": "20",
+        "pos": 35438553,
+        "methylated_reads": 19,
+        "unmethylated_reads": 14,
+        "coverage": 33
+      },
+      {
+        "cpg_id": "chr20:35438554",
+        "beta": 0.6666666666666666,
+        "chrom": "20",
+        "pos": 35438554,
+        "methylated_reads": 36,
+        "unmethylated_reads": 18,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35438568",
+        "beta": 0.4,
+        "chrom": "20",
+        "pos": 35438568,
+        "methylated_reads": 16,
+        "unmethylated_reads": 24,
+        "coverage": 40
+      },
+      {
+        "cpg_id": "chr20:35438569",
+        "beta": 0.4166666666666667,
+        "chrom": "20",
+        "pos": 35438569,
+        "methylated_reads": 20,
+        "unmethylated_reads": 28,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35438596",
+        "beta": 0.0,
+        "chrom": "20",
+        "pos": 35438596,
+        "methylated_reads": 0,
+        "unmethylated_reads": 43,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35438597",
+        "beta": 0.023255813953488372,
+        "chrom": "20",
+        "pos": 35438597,
+        "methylated_reads": 1,
+        "unmethylated_reads": 42,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35438686",
+        "beta": 0.575,
+        "chrom": "20",
+        "pos": 35438686,
+        "methylated_reads": 23,
+        "unmethylated_reads": 17,
+        "coverage": 40
+      },
+      {
+        "cpg_id": "chr20:35438687",
+        "beta": 0.43243243243243246,
+        "chrom": "20",
+        "pos": 35438687,
+        "methylated_reads": 16,
+        "unmethylated_reads": 21,
+        "coverage": 37
+      },
+      {
+        "cpg_id": "chr20:35438824",
+        "beta": 0.6666666666666666,
+        "chrom": "20",
+        "pos": 35438824,
+        "methylated_reads": 20,
+        "unmethylated_reads": 10,
+        "coverage": 30
+      },
+      {
+        "cpg_id": "chr20:35438825",
+        "beta": 0.8571428571428571,
+        "chrom": "20",
+        "pos": 35438825,
+        "methylated_reads": 12,
+        "unmethylated_reads": 2,
+        "coverage": 14
+      },
+      {
+        "cpg_id": "chr20:35439079",
+        "beta": 0.03125,
+        "chrom": "20",
+        "pos": 35439079,
+        "methylated_reads": 2,
+        "unmethylated_reads": 62,
+        "coverage": 64
+      },
+      {
+        "cpg_id": "chr20:35439080",
+        "beta": 0.0,
+        "chrom": "20",
+        "pos": 35439080,
+        "methylated_reads": 0,
+        "unmethylated_reads": 35,
+        "coverage": 35
+      },
+      {
+        "cpg_id": "chr20:35439105",
+        "beta": 0.2413793103448276,
+        "chrom": "20",
+        "pos": 35439105,
+        "methylated_reads": 14,
+        "unmethylated_reads": 44,
+        "coverage": 58
+      },
+      {
+        "cpg_id": "chr20:35439106",
+        "beta": 0.19444444444444445,
+        "chrom": "20",
+        "pos": 35439106,
+        "methylated_reads": 7,
+        "unmethylated_reads": 29,
+        "coverage": 36
+      },
+      {
+        "cpg_id": "chr20:35439146",
+        "beta": 0.01818181818181818,
+        "chrom": "20",
+        "pos": 35439146,
+        "methylated_reads": 1,
+        "unmethylated_reads": 54,
+        "coverage": 55
+      },
+      {
+        "cpg_id": "chr20:35439147",
+        "beta": 0.0,
+        "chrom": "20",
+        "pos": 35439147,
+        "methylated_reads": 0,
+        "unmethylated_reads": 38,
+        "coverage": 38
+      },
+      {
+        "cpg_id": "chr20:35439194",
+        "beta": 0.0,
+        "chrom": "20",
+        "pos": 35439194,
+        "methylated_reads": 0,
+        "unmethylated_reads": 46,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35439195",
+        "beta": 0.0,
+        "chrom": "20",
+        "pos": 35439195,
+        "methylated_reads": 0,
+        "unmethylated_reads": 39,
+        "coverage": 39
+      },
+      {
+        "cpg_id": "chr20:35439234",
+        "beta": 0.0,
+        "chrom": "20",
+        "pos": 35439234,
+        "methylated_reads": 0,
+        "unmethylated_reads": 44,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35439235",
+        "beta": 0.030303030303030304,
+        "chrom": "20",
+        "pos": 35439235,
+        "methylated_reads": 1,
+        "unmethylated_reads": 32,
+        "coverage": 33
+      },
+      {
+        "cpg_id": "chr20:35439260",
+        "beta": 0.20588235294117646,
+        "chrom": "20",
+        "pos": 35439260,
+        "methylated_reads": 7,
+        "unmethylated_reads": 27,
+        "coverage": 34
+      },
+      {
+        "cpg_id": "chr20:35439261",
+        "beta": 0.13333333333333333,
+        "chrom": "20",
+        "pos": 35439261,
+        "methylated_reads": 4,
+        "unmethylated_reads": 26,
+        "coverage": 30
+      },
+      {
+        "cpg_id": "chr20:35439268",
+        "beta": 0.40540540540540543,
+        "chrom": "20",
+        "pos": 35439268,
+        "methylated_reads": 15,
+        "unmethylated_reads": 22,
+        "coverage": 37
+      },
+      {
+        "cpg_id": "chr20:35439269",
+        "beta": 0.46875,
+        "chrom": "20",
+        "pos": 35439269,
+        "methylated_reads": 15,
+        "unmethylated_reads": 17,
+        "coverage": 32
+      },
+      {
+        "cpg_id": "chr20:35439276",
+        "beta": 0.1891891891891892,
+        "chrom": "20",
+        "pos": 35439276,
+        "methylated_reads": 7,
+        "unmethylated_reads": 30,
+        "coverage": 37
+      },
+      {
+        "cpg_id": "chr20:35439277",
+        "beta": 0.1935483870967742,
+        "chrom": "20",
+        "pos": 35439277,
+        "methylated_reads": 6,
+        "unmethylated_reads": 25,
+        "coverage": 31
+      },
+      {
+        "cpg_id": "chr20:35439328",
+        "beta": 0.0,
+        "chrom": "20",
+        "pos": 35439328,
+        "methylated_reads": 0,
+        "unmethylated_reads": 41,
+        "coverage": 41
+      },
+      {
+        "cpg_id": "chr20:35439329",
+        "beta": 0.023809523809523808,
+        "chrom": "20",
+        "pos": 35439329,
+        "methylated_reads": 1,
+        "unmethylated_reads": 41,
+        "coverage": 42
+      },
+      {
+        "cpg_id": "chr20:35439402",
+        "beta": 0.0,
+        "chrom": "20",
+        "pos": 35439402,
+        "methylated_reads": 0,
+        "unmethylated_reads": 43,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35439403",
+        "beta": 0.022727272727272728,
+        "chrom": "20",
+        "pos": 35439403,
+        "methylated_reads": 1,
+        "unmethylated_reads": 43,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35439448",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35439448,
+        "methylated_reads": 51,
+        "unmethylated_reads": 0,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35439449",
+        "beta": 0.9777777777777777,
+        "chrom": "20",
+        "pos": 35439449,
+        "methylated_reads": 44,
+        "unmethylated_reads": 1,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35439462",
+        "beta": 0.9423076923076923,
+        "chrom": "20",
+        "pos": 35439462,
+        "methylated_reads": 49,
+        "unmethylated_reads": 3,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35439463",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35439463,
+        "methylated_reads": 46,
+        "unmethylated_reads": 0,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35439469",
+        "beta": 0.98,
+        "chrom": "20",
+        "pos": 35439469,
+        "methylated_reads": 49,
+        "unmethylated_reads": 1,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35439470",
+        "beta": 0.9565217391304348,
+        "chrom": "20",
+        "pos": 35439470,
+        "methylated_reads": 44,
+        "unmethylated_reads": 2,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35439473",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35439473,
+        "methylated_reads": 46,
+        "unmethylated_reads": 0,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35439474",
+        "beta": 0.9782608695652174,
+        "chrom": "20",
+        "pos": 35439474,
+        "methylated_reads": 45,
+        "unmethylated_reads": 1,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35439478",
+        "beta": 0.9555555555555556,
+        "chrom": "20",
+        "pos": 35439478,
+        "methylated_reads": 43,
+        "unmethylated_reads": 2,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35439479",
+        "beta": 0.9565217391304348,
+        "chrom": "20",
+        "pos": 35439479,
+        "methylated_reads": 44,
+        "unmethylated_reads": 2,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35439506",
+        "beta": 0.5714285714285714,
+        "chrom": "20",
+        "pos": 35439506,
+        "methylated_reads": 28,
+        "unmethylated_reads": 21,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35439507",
+        "beta": 0.5344827586206896,
+        "chrom": "20",
+        "pos": 35439507,
+        "methylated_reads": 31,
+        "unmethylated_reads": 27,
+        "coverage": 58
+      },
+      {
+        "cpg_id": "chr20:35439516",
+        "beta": 0.4375,
+        "chrom": "20",
+        "pos": 35439516,
+        "methylated_reads": 21,
+        "unmethylated_reads": 27,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35439517",
+        "beta": 0.5932203389830508,
+        "chrom": "20",
+        "pos": 35439517,
+        "methylated_reads": 35,
+        "unmethylated_reads": 24,
+        "coverage": 59
+      },
+      {
+        "cpg_id": "chr20:35439518",
+        "beta": 0.4166666666666667,
+        "chrom": "20",
+        "pos": 35439518,
+        "methylated_reads": 20,
+        "unmethylated_reads": 28,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35439519",
+        "beta": 0.5254237288135594,
+        "chrom": "20",
+        "pos": 35439519,
+        "methylated_reads": 31,
+        "unmethylated_reads": 28,
+        "coverage": 59
+      },
+      {
+        "cpg_id": "chr20:35439521",
+        "beta": 0.5102040816326531,
+        "chrom": "20",
+        "pos": 35439521,
+        "methylated_reads": 25,
+        "unmethylated_reads": 24,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35439522",
+        "beta": 0.5423728813559322,
+        "chrom": "20",
+        "pos": 35439522,
+        "methylated_reads": 32,
+        "unmethylated_reads": 27,
+        "coverage": 59
+      },
+      {
+        "cpg_id": "chr20:35439644",
+        "beta": 0.74,
+        "chrom": "20",
+        "pos": 35439644,
+        "methylated_reads": 37,
+        "unmethylated_reads": 13,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35439645",
+        "beta": 0.5185185185185185,
+        "chrom": "20",
+        "pos": 35439645,
+        "methylated_reads": 28,
+        "unmethylated_reads": 26,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35439647",
+        "beta": 0.9122807017543859,
+        "chrom": "20",
+        "pos": 35439647,
+        "methylated_reads": 52,
+        "unmethylated_reads": 5,
+        "coverage": 57
+      },
+      {
+        "cpg_id": "chr20:35439648",
+        "beta": 0.9811320754716981,
+        "chrom": "20",
+        "pos": 35439648,
+        "methylated_reads": 52,
+        "unmethylated_reads": 1,
+        "coverage": 53
+      },
+      {
+        "cpg_id": "chr20:35439681",
+        "beta": 0.9555555555555556,
+        "chrom": "20",
+        "pos": 35439681,
+        "methylated_reads": 43,
+        "unmethylated_reads": 2,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35439682",
+        "beta": 0.8837209302325582,
+        "chrom": "20",
+        "pos": 35439682,
+        "methylated_reads": 38,
+        "unmethylated_reads": 5,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35439695",
+        "beta": 0.9090909090909091,
+        "chrom": "20",
+        "pos": 35439695,
+        "methylated_reads": 40,
+        "unmethylated_reads": 4,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35439696",
+        "beta": 0.9347826086956522,
+        "chrom": "20",
+        "pos": 35439696,
+        "methylated_reads": 43,
+        "unmethylated_reads": 3,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35439785",
+        "beta": 0.9705882352941176,
+        "chrom": "20",
+        "pos": 35439785,
+        "methylated_reads": 33,
+        "unmethylated_reads": 1,
+        "coverage": 34
+      },
+      {
+        "cpg_id": "chr20:35439786",
+        "beta": 0.975609756097561,
+        "chrom": "20",
+        "pos": 35439786,
+        "methylated_reads": 40,
+        "unmethylated_reads": 1,
+        "coverage": 41
+      },
+      {
+        "cpg_id": "chr20:35439800",
+        "beta": 0.9090909090909091,
+        "chrom": "20",
+        "pos": 35439800,
+        "methylated_reads": 30,
+        "unmethylated_reads": 3,
+        "coverage": 33
+      },
+      {
+        "cpg_id": "chr20:35439801",
+        "beta": 0.9285714285714286,
+        "chrom": "20",
+        "pos": 35439801,
+        "methylated_reads": 39,
+        "unmethylated_reads": 3,
+        "coverage": 42
+      },
+      {
+        "cpg_id": "chr20:35439858",
+        "beta": 0.9583333333333334,
+        "chrom": "20",
+        "pos": 35439858,
+        "methylated_reads": 23,
+        "unmethylated_reads": 1,
+        "coverage": 24
+      },
+      {
+        "cpg_id": "chr20:35439859",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35439859,
+        "methylated_reads": 26,
+        "unmethylated_reads": 0,
+        "coverage": 26
+      },
+      {
+        "cpg_id": "chr20:35439875",
+        "beta": 0.8421052631578947,
+        "chrom": "20",
+        "pos": 35439875,
+        "methylated_reads": 16,
+        "unmethylated_reads": 3,
+        "coverage": 19
+      },
+      {
+        "cpg_id": "chr20:35439876",
+        "beta": 0.8333333333333334,
+        "chrom": "20",
+        "pos": 35439876,
+        "methylated_reads": 20,
+        "unmethylated_reads": 4,
+        "coverage": 24
+      },
+      {
+        "cpg_id": "chr20:35439979",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35439979,
+        "methylated_reads": 26,
+        "unmethylated_reads": 0,
+        "coverage": 26
+      },
+      {
+        "cpg_id": "chr20:35439980",
+        "beta": 0.9428571428571428,
+        "chrom": "20",
+        "pos": 35439980,
+        "methylated_reads": 33,
+        "unmethylated_reads": 2,
+        "coverage": 35
+      },
+      {
+        "cpg_id": "chr20:35440019",
+        "beta": 0.7666666666666667,
+        "chrom": "20",
+        "pos": 35440019,
+        "methylated_reads": 23,
+        "unmethylated_reads": 7,
+        "coverage": 30
+      },
+      {
+        "cpg_id": "chr20:35440020",
+        "beta": 0.8333333333333334,
+        "chrom": "20",
+        "pos": 35440020,
+        "methylated_reads": 30,
+        "unmethylated_reads": 6,
+        "coverage": 36
+      },
+      {
+        "cpg_id": "chr20:35440041",
+        "beta": 0.5882352941176471,
+        "chrom": "20",
+        "pos": 35440041,
+        "methylated_reads": 20,
+        "unmethylated_reads": 14,
+        "coverage": 34
+      },
+      {
+        "cpg_id": "chr20:35440042",
+        "beta": 0.48717948717948717,
+        "chrom": "20",
+        "pos": 35440042,
+        "methylated_reads": 19,
+        "unmethylated_reads": 20,
+        "coverage": 39
+      },
+      {
+        "cpg_id": "chr20:35440105",
+        "beta": 0.78125,
+        "chrom": "20",
+        "pos": 35440105,
+        "methylated_reads": 25,
+        "unmethylated_reads": 7,
+        "coverage": 32
+      },
+      {
+        "cpg_id": "chr20:35440106",
+        "beta": 0.7959183673469388,
+        "chrom": "20",
+        "pos": 35440106,
+        "methylated_reads": 39,
+        "unmethylated_reads": 10,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35440136",
+        "beta": 0.03333333333333333,
+        "chrom": "20",
+        "pos": 35440136,
+        "methylated_reads": 1,
+        "unmethylated_reads": 29,
+        "coverage": 30
+      },
+      {
+        "cpg_id": "chr20:35440137",
+        "beta": 0.0851063829787234,
+        "chrom": "20",
+        "pos": 35440137,
+        "methylated_reads": 4,
+        "unmethylated_reads": 43,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35440225",
+        "beta": 0.9318181818181818,
+        "chrom": "20",
+        "pos": 35440225,
+        "methylated_reads": 41,
+        "unmethylated_reads": 3,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35440226",
+        "beta": 0.9791666666666666,
+        "chrom": "20",
+        "pos": 35440226,
+        "methylated_reads": 47,
+        "unmethylated_reads": 1,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35440254",
+        "beta": 0.9787234042553191,
+        "chrom": "20",
+        "pos": 35440254,
+        "methylated_reads": 46,
+        "unmethylated_reads": 1,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35440255",
+        "beta": 0.9666666666666667,
+        "chrom": "20",
+        "pos": 35440255,
+        "methylated_reads": 58,
+        "unmethylated_reads": 2,
+        "coverage": 60
+      },
+      {
+        "cpg_id": "chr20:35440260",
+        "beta": 0.9591836734693877,
+        "chrom": "20",
+        "pos": 35440260,
+        "methylated_reads": 47,
+        "unmethylated_reads": 2,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35440261",
+        "beta": 0.9838709677419355,
+        "chrom": "20",
+        "pos": 35440261,
+        "methylated_reads": 61,
+        "unmethylated_reads": 1,
+        "coverage": 62
+      },
+      {
+        "cpg_id": "chr20:35440456",
+        "beta": 0.38,
+        "chrom": "20",
+        "pos": 35440456,
+        "methylated_reads": 19,
+        "unmethylated_reads": 31,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35440457",
+        "beta": 0.4520547945205479,
+        "chrom": "20",
+        "pos": 35440457,
+        "methylated_reads": 33,
+        "unmethylated_reads": 40,
+        "coverage": 73
+      },
+      {
+        "cpg_id": "chr20:35440552",
+        "beta": 0.0392156862745098,
+        "chrom": "20",
+        "pos": 35440552,
+        "methylated_reads": 2,
+        "unmethylated_reads": 49,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35440553",
+        "beta": 0.0,
+        "chrom": "20",
+        "pos": 35440553,
+        "methylated_reads": 0,
+        "unmethylated_reads": 72,
+        "coverage": 72
+      },
+      {
+        "cpg_id": "chr20:35440880",
+        "beta": 0.46774193548387094,
+        "chrom": "20",
+        "pos": 35440880,
+        "methylated_reads": 29,
+        "unmethylated_reads": 33,
+        "coverage": 62
+      },
+      {
+        "cpg_id": "chr20:35440881",
+        "beta": 0.2923076923076923,
+        "chrom": "20",
+        "pos": 35440881,
+        "methylated_reads": 19,
+        "unmethylated_reads": 46,
+        "coverage": 65
+      },
+      {
+        "cpg_id": "chr20:35441092",
+        "beta": 0.25,
+        "chrom": "20",
+        "pos": 35441092,
+        "methylated_reads": 12,
+        "unmethylated_reads": 36,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35441093",
+        "beta": 0.3269230769230769,
+        "chrom": "20",
+        "pos": 35441093,
+        "methylated_reads": 17,
+        "unmethylated_reads": 35,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35441219",
+        "beta": 0.9215686274509803,
+        "chrom": "20",
+        "pos": 35441219,
+        "methylated_reads": 47,
+        "unmethylated_reads": 4,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35441220",
+        "beta": 0.875,
+        "chrom": "20",
+        "pos": 35441220,
+        "methylated_reads": 35,
+        "unmethylated_reads": 5,
+        "coverage": 40
+      },
+      {
+        "cpg_id": "chr20:35441271",
+        "beta": 0.9787234042553191,
+        "chrom": "20",
+        "pos": 35441271,
+        "methylated_reads": 46,
+        "unmethylated_reads": 1,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35441272",
+        "beta": 0.9333333333333333,
+        "chrom": "20",
+        "pos": 35441272,
+        "methylated_reads": 42,
+        "unmethylated_reads": 3,
+        "coverage": 45
+      },
+      {
+        "cpg_id": "chr20:35441279",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35441279,
+        "methylated_reads": 55,
+        "unmethylated_reads": 0,
+        "coverage": 55
+      },
+      {
+        "cpg_id": "chr20:35441280",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35441280,
+        "methylated_reads": 48,
+        "unmethylated_reads": 0,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35441291",
+        "beta": 0.7719298245614035,
+        "chrom": "20",
+        "pos": 35441291,
+        "methylated_reads": 44,
+        "unmethylated_reads": 13,
+        "coverage": 57
+      },
+      {
+        "cpg_id": "chr20:35441292",
+        "beta": 0.8571428571428571,
+        "chrom": "20",
+        "pos": 35441292,
+        "methylated_reads": 48,
+        "unmethylated_reads": 8,
+        "coverage": 56
+      },
+      {
+        "cpg_id": "chr20:35441319",
+        "beta": 0.543859649122807,
+        "chrom": "20",
+        "pos": 35441319,
+        "methylated_reads": 31,
+        "unmethylated_reads": 26,
+        "coverage": 57
+      },
+      {
+        "cpg_id": "chr20:35441320",
+        "beta": 0.45614035087719296,
+        "chrom": "20",
+        "pos": 35441320,
+        "methylated_reads": 26,
+        "unmethylated_reads": 31,
+        "coverage": 57
+      },
+      {
+        "cpg_id": "chr20:35441335",
+        "beta": 0.11864406779661017,
+        "chrom": "20",
+        "pos": 35441335,
+        "methylated_reads": 7,
+        "unmethylated_reads": 52,
+        "coverage": 59
+      },
+      {
+        "cpg_id": "chr20:35441336",
+        "beta": 0.1016949152542373,
+        "chrom": "20",
+        "pos": 35441336,
+        "methylated_reads": 6,
+        "unmethylated_reads": 53,
+        "coverage": 59
+      },
+      {
+        "cpg_id": "chr20:35441547",
+        "beta": 0.30612244897959184,
+        "chrom": "20",
+        "pos": 35441547,
+        "methylated_reads": 15,
+        "unmethylated_reads": 34,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35441548",
+        "beta": 0.4791666666666667,
+        "chrom": "20",
+        "pos": 35441548,
+        "methylated_reads": 23,
+        "unmethylated_reads": 25,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35441601",
+        "beta": 0.9487179487179487,
+        "chrom": "20",
+        "pos": 35441601,
+        "methylated_reads": 37,
+        "unmethylated_reads": 2,
+        "coverage": 39
+      },
+      {
+        "cpg_id": "chr20:35441602",
+        "beta": 0.9591836734693877,
+        "chrom": "20",
+        "pos": 35441602,
+        "methylated_reads": 47,
+        "unmethylated_reads": 2,
+        "coverage": 49
+      },
+      {
+        "cpg_id": "chr20:35441611",
+        "beta": 0.9743589743589743,
+        "chrom": "20",
+        "pos": 35441611,
+        "methylated_reads": 38,
+        "unmethylated_reads": 1,
+        "coverage": 39
+      },
+      {
+        "cpg_id": "chr20:35441612",
+        "beta": 0.96,
+        "chrom": "20",
+        "pos": 35441612,
+        "methylated_reads": 48,
+        "unmethylated_reads": 2,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35441615",
+        "beta": 0.9743589743589743,
+        "chrom": "20",
+        "pos": 35441615,
+        "methylated_reads": 38,
+        "unmethylated_reads": 1,
+        "coverage": 39
+      },
+      {
+        "cpg_id": "chr20:35441616",
+        "beta": 0.98,
+        "chrom": "20",
+        "pos": 35441616,
+        "methylated_reads": 49,
+        "unmethylated_reads": 1,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35441674",
+        "beta": 0.23076923076923078,
+        "chrom": "20",
+        "pos": 35441674,
+        "methylated_reads": 12,
+        "unmethylated_reads": 40,
+        "coverage": 52
+      },
+      {
+        "cpg_id": "chr20:35441675",
+        "beta": 0.18604651162790697,
+        "chrom": "20",
+        "pos": 35441675,
+        "methylated_reads": 8,
+        "unmethylated_reads": 35,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35441704",
+        "beta": 0.42857142857142855,
+        "chrom": "20",
+        "pos": 35441704,
+        "methylated_reads": 24,
+        "unmethylated_reads": 32,
+        "coverage": 56
+      },
+      {
+        "cpg_id": "chr20:35441705",
+        "beta": 0.5,
+        "chrom": "20",
+        "pos": 35441705,
+        "methylated_reads": 22,
+        "unmethylated_reads": 22,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35441748",
+        "beta": 0.8095238095238095,
+        "chrom": "20",
+        "pos": 35441748,
+        "methylated_reads": 51,
+        "unmethylated_reads": 12,
+        "coverage": 63
+      },
+      {
+        "cpg_id": "chr20:35441749",
+        "beta": 0.8636363636363636,
+        "chrom": "20",
+        "pos": 35441749,
+        "methylated_reads": 38,
+        "unmethylated_reads": 6,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35441924",
+        "beta": 0.5846153846153846,
+        "chrom": "20",
+        "pos": 35441924,
+        "methylated_reads": 38,
+        "unmethylated_reads": 27,
+        "coverage": 65
+      },
+      {
+        "cpg_id": "chr20:35441925",
+        "beta": 0.5,
+        "chrom": "20",
+        "pos": 35441925,
+        "methylated_reads": 31,
+        "unmethylated_reads": 31,
+        "coverage": 62
+      },
+      {
+        "cpg_id": "chr20:35441994",
+        "beta": 0.7352941176470589,
+        "chrom": "20",
+        "pos": 35441994,
+        "methylated_reads": 50,
+        "unmethylated_reads": 18,
+        "coverage": 68
+      },
+      {
+        "cpg_id": "chr20:35441995",
+        "beta": 0.7916666666666666,
+        "chrom": "20",
+        "pos": 35441995,
+        "methylated_reads": 38,
+        "unmethylated_reads": 10,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35442087",
+        "beta": 0.8059701492537313,
+        "chrom": "20",
+        "pos": 35442087,
+        "methylated_reads": 54,
+        "unmethylated_reads": 13,
+        "coverage": 67
+      },
+      {
+        "cpg_id": "chr20:35442088",
+        "beta": 0.7,
+        "chrom": "20",
+        "pos": 35442088,
+        "methylated_reads": 35,
+        "unmethylated_reads": 15,
+        "coverage": 50
+      },
+      {
+        "cpg_id": "chr20:35442140",
+        "beta": 0.7162162162162162,
+        "chrom": "20",
+        "pos": 35442140,
+        "methylated_reads": 53,
+        "unmethylated_reads": 21,
+        "coverage": 74
+      },
+      {
+        "cpg_id": "chr20:35442141",
+        "beta": 0.864406779661017,
+        "chrom": "20",
+        "pos": 35442141,
+        "methylated_reads": 51,
+        "unmethylated_reads": 8,
+        "coverage": 59
+      },
+      {
+        "cpg_id": "chr20:35442177",
+        "beta": 0.7571428571428571,
+        "chrom": "20",
+        "pos": 35442177,
+        "methylated_reads": 53,
+        "unmethylated_reads": 17,
+        "coverage": 70
+      },
+      {
+        "cpg_id": "chr20:35442178",
+        "beta": 0.6666666666666666,
+        "chrom": "20",
+        "pos": 35442178,
+        "methylated_reads": 44,
+        "unmethylated_reads": 22,
+        "coverage": 66
+      },
+      {
+        "cpg_id": "chr20:35442207",
+        "beta": 0.9166666666666666,
+        "chrom": "20",
+        "pos": 35442207,
+        "methylated_reads": 66,
+        "unmethylated_reads": 6,
+        "coverage": 72
+      },
+      {
+        "cpg_id": "chr20:35442208",
+        "beta": 0.9552238805970149,
+        "chrom": "20",
+        "pos": 35442208,
+        "methylated_reads": 64,
+        "unmethylated_reads": 3,
+        "coverage": 67
+      },
+      {
+        "cpg_id": "chr20:35442232",
+        "beta": 0.46875,
+        "chrom": "20",
+        "pos": 35442232,
+        "methylated_reads": 30,
+        "unmethylated_reads": 34,
+        "coverage": 64
+      },
+      {
+        "cpg_id": "chr20:35442233",
+        "beta": 0.42028985507246375,
+        "chrom": "20",
+        "pos": 35442233,
+        "methylated_reads": 29,
+        "unmethylated_reads": 40,
+        "coverage": 69
+      },
+      {
+        "cpg_id": "chr20:35442303",
+        "beta": 0.18032786885245902,
+        "chrom": "20",
+        "pos": 35442303,
+        "methylated_reads": 11,
+        "unmethylated_reads": 50,
+        "coverage": 61
+      },
+      {
+        "cpg_id": "chr20:35442304",
+        "beta": 0.18518518518518517,
+        "chrom": "20",
+        "pos": 35442304,
+        "methylated_reads": 10,
+        "unmethylated_reads": 44,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35442430",
+        "beta": 0.125,
+        "chrom": "20",
+        "pos": 35442430,
+        "methylated_reads": 6,
+        "unmethylated_reads": 42,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35442431",
+        "beta": 0.11764705882352941,
+        "chrom": "20",
+        "pos": 35442431,
+        "methylated_reads": 6,
+        "unmethylated_reads": 45,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35442500",
+        "beta": 0.8409090909090909,
+        "chrom": "20",
+        "pos": 35442500,
+        "methylated_reads": 37,
+        "unmethylated_reads": 7,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35442501",
+        "beta": 0.7916666666666666,
+        "chrom": "20",
+        "pos": 35442501,
+        "methylated_reads": 38,
+        "unmethylated_reads": 10,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35442503",
+        "beta": 0.8837209302325582,
+        "chrom": "20",
+        "pos": 35442503,
+        "methylated_reads": 38,
+        "unmethylated_reads": 5,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35442504",
+        "beta": 0.7659574468085106,
+        "chrom": "20",
+        "pos": 35442504,
+        "methylated_reads": 36,
+        "unmethylated_reads": 11,
+        "coverage": 47
+      },
+      {
+        "cpg_id": "chr20:35442514",
+        "beta": 0.8636363636363636,
+        "chrom": "20",
+        "pos": 35442514,
+        "methylated_reads": 38,
+        "unmethylated_reads": 6,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35442515",
+        "beta": 0.8863636363636364,
+        "chrom": "20",
+        "pos": 35442515,
+        "methylated_reads": 39,
+        "unmethylated_reads": 5,
+        "coverage": 44
+      },
+      {
+        "cpg_id": "chr20:35442534",
+        "beta": 0.20588235294117646,
+        "chrom": "20",
+        "pos": 35442534,
+        "methylated_reads": 7,
+        "unmethylated_reads": 27,
+        "coverage": 34
+      },
+      {
+        "cpg_id": "chr20:35442535",
+        "beta": 0.32558139534883723,
+        "chrom": "20",
+        "pos": 35442535,
+        "methylated_reads": 14,
+        "unmethylated_reads": 29,
+        "coverage": 43
+      },
+      {
+        "cpg_id": "chr20:35442686",
+        "beta": 0.9122807017543859,
+        "chrom": "20",
+        "pos": 35442686,
+        "methylated_reads": 52,
+        "unmethylated_reads": 5,
+        "coverage": 57
+      },
+      {
+        "cpg_id": "chr20:35442687",
+        "beta": 0.9743589743589743,
+        "chrom": "20",
+        "pos": 35442687,
+        "methylated_reads": 38,
+        "unmethylated_reads": 1,
+        "coverage": 39
+      },
+      {
+        "cpg_id": "chr20:35442691",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35442691,
+        "methylated_reads": 54,
+        "unmethylated_reads": 0,
+        "coverage": 54
+      },
+      {
+        "cpg_id": "chr20:35442692",
+        "beta": 1.0,
+        "chrom": "20",
+        "pos": 35442692,
+        "methylated_reads": 39,
+        "unmethylated_reads": 0,
+        "coverage": 39
+      },
+      {
+        "cpg_id": "chr20:35442701",
+        "beta": 0.9803921568627451,
+        "chrom": "20",
+        "pos": 35442701,
+        "methylated_reads": 50,
+        "unmethylated_reads": 1,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35442702",
+        "beta": 0.85,
+        "chrom": "20",
+        "pos": 35442702,
+        "methylated_reads": 34,
+        "unmethylated_reads": 6,
+        "coverage": 40
+      },
+      {
+        "cpg_id": "chr20:35442705",
+        "beta": 0.9791666666666666,
+        "chrom": "20",
+        "pos": 35442705,
+        "methylated_reads": 47,
+        "unmethylated_reads": 1,
+        "coverage": 48
+      },
+      {
+        "cpg_id": "chr20:35442706",
+        "beta": 0.9487179487179487,
+        "chrom": "20",
+        "pos": 35442706,
+        "methylated_reads": 37,
+        "unmethylated_reads": 2,
+        "coverage": 39
+      },
+      {
+        "cpg_id": "chr20:35442733",
+        "beta": 0.32608695652173914,
+        "chrom": "20",
+        "pos": 35442733,
+        "methylated_reads": 15,
+        "unmethylated_reads": 31,
+        "coverage": 46
+      },
+      {
+        "cpg_id": "chr20:35442734",
+        "beta": 0.275,
+        "chrom": "20",
+        "pos": 35442734,
+        "methylated_reads": 11,
+        "unmethylated_reads": 29,
+        "coverage": 40
+      },
+      {
+        "cpg_id": "chr20:35442765",
+        "beta": 0.21568627450980393,
+        "chrom": "20",
+        "pos": 35442765,
+        "methylated_reads": 11,
+        "unmethylated_reads": 40,
+        "coverage": 51
+      },
+      {
+        "cpg_id": "chr20:35442766",
+        "beta": 0.45,
+        "chrom": "20",
+        "pos": 35442766,
+        "methylated_reads": 18,
+        "unmethylated_reads": 22,
+        "coverage": 40
+      },
+      {
+        "cpg_id": "chr20:35442797",
+        "beta": 0.17543859649122806,
+        "chrom": "20",
+        "pos": 35442797,
+        "methylated_reads": 10,
+        "unmethylated_reads": 47,
+        "coverage": 57
+      },
+      {
+        "cpg_id": "chr20:35442798",
+        "beta": 0.16216216216216217,
+        "chrom": "20",
+        "pos": 35442798,
+        "methylated_reads": 6,
+        "unmethylated_reads": 31,
+        "coverage": 37
+      }
+    ],
+    "metadata": {
+      "build": "GRCh38",
+      "provenance": "public_reference",
+      "sample_id": "HG002/GM24385",
+      "tissue": "HG002 lymphoblastoid cell line",
+      "assay": "Whole-genome bisulfite sequencing \u00b7 Bismark",
+      "collected_at": "Not reported",
+      "source_name": "Oxford Nanopore GM24385 public methylation release",
+      "source_url": "https://epi2me.nanoporetech.com/gm24385-5mc/",
+      "selection": "chr20:35433000\u201335443000, coverage \u226510 reads, at most 500 cytosine sites; beta = methylated/(methylated+unmethylated).",
+      "limitations": "Same public cell-line identity as HG002, separate experiments/batches. Not cartilage, blood from the app user or a health score. Site IDs are genomic coordinates, not array probes."
+    }
+  }
+}

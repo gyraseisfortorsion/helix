@@ -1,0 +1,206 @@
+{
+  "status": "available",
+  "trait": "heart rate",
+  "ontology_id": "OBA_1001087",
+  "associations": [
+    {
+      "rsid": "rs422068",
+      "effect_allele": "C",
+      "chrom": "14",
+      "pos": 23395595,
+      "build": "GRCh38",
+      "association_id": "17628768",
+      "reported_traits": [
+        "Resting heart rate"
+      ],
+      "mapped_genes": [
+        "MYH6"
+      ],
+      "p_value": 2e-100,
+      "reported_effect": "0.7307 unit increase",
+      "pubmed_id": "27798624",
+      "study": "GCST003818",
+      "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations/17628768"
+    },
+    {
+      "rsid": "rs151041685",
+      "effect_allele": "T",
+      "chrom": "2",
+      "pos": 178860510,
+      "build": "GRCh38",
+      "association_id": "17628188",
+      "reported_traits": [
+        "Resting heart rate"
+      ],
+      "mapped_genes": [
+        "CCDC141"
+      ],
+      "p_value": 8e-75,
+      "reported_effect": "1.0613 unit increase",
+      "pubmed_id": "27798624",
+      "study": "GCST003818",
+      "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations/17628188"
+    },
+    {
+      "rsid": "rs6123471",
+      "effect_allele": "C",
+      "chrom": "20",
+      "pos": 38211754,
+      "build": "GRCh38",
+      "association_id": "17628939",
+      "reported_traits": [
+        "Resting heart rate"
+      ],
+      "mapped_genes": [
+        "KIAA1755"
+      ],
+      "p_value": 7e-72,
+      "reported_effect": "0.5953 unit decrease",
+      "pubmed_id": "27798624",
+      "study": "GCST003818",
+      "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations/17628939"
+    },
+    {
+      "rsid": "rs9320841",
+      "effect_allele": "?",
+      "chrom": "6",
+      "pos": 121793305,
+      "build": "GRCh38",
+      "association_id": "138942627",
+      "reported_traits": [
+        "Resting heart rate"
+      ],
+      "mapped_genes": [
+        "HMGB3P18",
+        "RPL23AP48"
+      ],
+      "p_value": 2e-65,
+      "reported_effect": "-",
+      "pubmed_id": "38116116",
+      "study": "GCST90278636",
+      "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations/138942627"
+    },
+    {
+      "rsid": "rs1320761",
+      "effect_allele": "T",
+      "chrom": "6",
+      "pos": 121846992,
+      "build": "GRCh38",
+      "association_id": "17628099",
+      "reported_traits": [
+        "Resting heart rate"
+      ],
+      "mapped_genes": [
+        "HMGB3P18",
+        "RPL23AP48"
+      ],
+      "p_value": 1e-64,
+      "reported_effect": "0.9018 unit increase",
+      "pubmed_id": "27798624",
+      "study": "GCST003818",
+      "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations/17628099"
+    },
+    {
+      "rsid": "rs3951016",
+      "effect_allele": "A",
+      "chrom": "6",
+      "pos": 118238495,
+      "build": "GRCh38",
+      "association_id": "17628698",
+      "reported_traits": [
+        "Resting heart rate"
+      ],
+      "mapped_genes": [
+        "SLC35F1"
+      ],
+      "p_value": 2.9999999999999998e-55,
+      "reported_effect": "0.5196 unit increase",
+      "pubmed_id": "27798624",
+      "study": "GCST003818",
+      "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations/17628698"
+    },
+    {
+      "rsid": "rs4963772",
+      "effect_allele": "A",
+      "chrom": "12",
+      "pos": 24605546,
+      "build": "GRCh38",
+      "association_id": "17628864",
+      "reported_traits": [
+        "Resting heart rate"
+      ],
+      "mapped_genes": [
+        "KNOP1P1",
+        "RN7SL38P"
+      ],
+      "p_value": 3e-53,
+      "reported_effect": "0.7139 unit decrease",
+      "pubmed_id": "27798624",
+      "study": "GCST003818",
+      "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations/17628864"
+    },
+    {
+      "rsid": "rs4963772",
+      "effect_allele": "?",
+      "chrom": "12",
+      "pos": 24605546,
+      "build": "GRCh38",
+      "association_id": "138942687",
+      "reported_traits": [
+        "Resting heart rate"
+      ],
+      "mapped_genes": [
+        "KNOP1P1",
+        "RN7SL38P"
+      ],
+      "p_value": 5e-51,
+      "reported_effect": "-",
+      "pubmed_id": "38116116",
+      "study": "GCST90278636",
+      "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations/138942687"
+    },
+    {
+      "rsid": "rs365990",
+      "effect_allele": "G",
+      "chrom": "14",
+      "pos": 23392602,
+      "build": "GRCh38",
+      "association_id": "14853182",
+      "reported_traits": [
+        "Heart rate"
+      ],
+      "mapped_genes": [
+        "MYH6"
+      ],
+      "p_value": 5e-45,
+      "reported_effect": "0.564 unit increase",
+      "pubmed_id": "23583979",
+      "study": "GCST001969",
+      "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations/14853182"
+    },
+    {
+      "rsid": "rs17881696",
+      "effect_allele": "A",
+      "chrom": "7",
+      "pos": 100895738,
+      "build": "GRCh38",
+      "association_id": "17628374",
+      "reported_traits": [
+        "Resting heart rate"
+      ],
+      "mapped_genes": [
+        "ACHE"
+      ],
+      "p_value": 1e-41,
+      "reported_effect": "0.5784 unit increase",
+      "pubmed_id": "27798624",
+      "study": "GCST003818",
+      "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations/17628374"
+    }
+  ],
+  "associations_retrieved": 200,
+  "catalog_association_count": 2893,
+  "truncated": true,
+  "retrieved_at": "2026-11-01",
+  "source_url": "https://www.ebi.ac.uk/gwas/rest/api/v2/associations?efo_id=OBA_1001087&direction=asc&show_child_trait=false&page=0&size=200&sort=p_value"
+}

@@ -1,0 +1,44 @@
+{
+  "cohort": "GSE41169",
+  "scope": "No fitting or tuning on this cohort. Retrospective reproducibility/error check, not independent clinical validation; donor overlap with original model development has not been audited.",
+  "all_samples": 95,
+  "eligible_adults": 89,
+  "mae_years": 2.9759,
+  "median_absolute_error_years": 1.9518,
+  "bias_years": 0.3533,
+  "biolearn_parity": {
+    "samples": 10,
+    "max_absolute_error_years": 3.552713678800501e-15,
+    "source": "https://github.com/bio-learn/biolearn/blob/0d714f5a0c0ad5743b6315f3edab1f86112d394f/biolearn/test/data/expected_model_outputs/Hannum.csv"
+  },
+  "by_sex": {
+    "Female": {
+      "n": 23,
+      "mae_years": 1.9575,
+      "bias_years": 0.1994
+    },
+    "Male": {
+      "n": 66,
+      "mae_years": 3.3308,
+      "bias_years": 0.4069
+    }
+  },
+  "by_cohort_group": {
+    "control": {
+      "n": 31,
+      "mae_years": 2.4764,
+      "bias_years": 1.067
+    },
+    "schizophrenia": {
+      "n": 58,
+      "mae_years": 3.2429,
+      "bias_years": -0.0282
+    }
+  },
+  "limitations": [
+    "Single Dutch whole-blood cohort with limited age/population coverage.",
+    "Raw intensities unavailable; no raw-array QC or cell-mixture adjustment.",
+    "No longitudinal pairs or technical replicates; no personal interval or meaningful-change threshold is calibrated.",
+    "Not evaluated on EPIC, saliva, children or customer laboratory pipelines."
+  ]
+}

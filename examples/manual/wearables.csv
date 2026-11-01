@@ -1,0 +1,10 @@
+timestamp,metric,value,unit,source,context
+2026-10-01T08:00:00-04:00,resting_heart_rate,70,bpm,Synthetic watch,resting
+2026-10-02T08:00:00-04:00,resting_heart_rate,70,bpm,Synthetic watch,resting
+2026-10-03T08:00:00-04:00,resting_heart_rate,70,bpm,Synthetic watch,resting
+2026-10-04T08:00:00-04:00,resting_heart_rate,70,bpm,Synthetic watch,resting
+2026-10-05T08:00:00-04:00,resting_heart_rate,70,bpm,Synthetic watch,resting
+2026-10-06T08:00:00-04:00,resting_heart_rate,70,bpm,Synthetic watch,resting
+2026-10-07T08:00:00-04:00,resting_heart_rate,70,bpm,Synthetic watch,resting
+2026-10-08T08:00:00-04:00,resting_heart_rate,70,bpm,Synthetic watch,resting
+2026-10-09T08:00:00-04:00,resting_heart_rate,90,bpm,Synthetic watch,resting
