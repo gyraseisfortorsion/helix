@@ -20,7 +20,7 @@ A matched association locus is not a clinical classification or evidence that a 
 
 ## Demo and failure behavior
 
-Alex's current demo contains only 18 actual GIAB calls from a few selected regions, not a complete genome. The dated snapshot currently yields nine unique supported heart-rate loci; none occur in that regional file. The answer can therefore say, in direct I/you voice, that it checked those markers and found missing coverage. No genotypes are added to make a positive demonstration.
+Alex's expanded demo contains 22 actual GIAB calls, including four measured heart-rate loci; Sam has 26 calls including seven. The original regional subsets are preserved and supplemented with additional measured PASS calls from the same GIAB identities. The dated catalogue has nine supported unique loci. A lookup reports the actual observed and unmeasured counts, in direct I/you voice. Missing calls are never filled in to create a positive result. See [covered demo examples](DEMO_GUIDE.md).
 
 When live retrieval fails, heart-rate questions use the explicitly dated public snapshot in `api/trait_catalog_data/heart_rate.json`, with a visible disclosure. Evidence-only mode also uses this snapshot locally. Its manifest records the source URL, original response hash, filtered snapshot hash, date and selection rules. Other traits without an available catalogue return an unavailable/ambiguous result; a service failure is not a negative genetic result.
 
