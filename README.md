@@ -130,7 +130,7 @@ The frontend is static (`web/dist`) and can deploy independently to Vercel or GC
 
 The backend Dockerfile targets an always-on host with a persistent `/data` volume. `compose.yaml` supplies a local example. Set a private workspace access key, exact CORS origins, and turn off loopback workspace creation for hosting. The default API includes one background worker. To use a separate `helix-worker`, set `DNA_EMBEDDED_WORKER=false` on the API and run exactly one worker against the same data volume. SQLite is intentionally single-host; horizontal scaling requires a different persistence design.
 
-No deployment or cloud-resource allocation has been performed.
+The `helix` Vercel project is connected to this repository with `web` as its root directory. Production provider credentials are configured as encrypted environment variables; they are never exposed through `VITE_` variables. The frontend deployment still requires `VITE_API_BASE_URL` pointing to an HTTPS backend. Provider credentials must also be configured on that backend host. Vercel Functions cannot preserve this backend's local SQLite/Parquet state or continuously run its embedded worker; use the persistent Docker host described above.
 
 ### Question-driven genetic lookup
 
